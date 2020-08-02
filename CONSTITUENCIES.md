@@ -4,7 +4,7 @@
 
 ## Context
 
-Having a clear idea of who are our constituencies will help us prioritize decisions as well as which features orchanges should be included in the project. 
+Having a clear idea of who are our constituencies will help us prioritize decisions as well as which features or changes should be included in the project. 
 
 ## List of constituencies
 
