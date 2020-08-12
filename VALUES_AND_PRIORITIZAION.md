@@ -10,6 +10,10 @@ that are applied when making tradeoffs.
 
 ## Values and priority level
 
+This is only a subset of the overall prioties, listing only those which are at the
+top of the priority list. Anthing on this list is very important for the project
+despite the relative priorities shown.
+
 - Prio 1 - Developer experience
 - Prio 2 - Stability
 - Prio 3 - Operational qualities
