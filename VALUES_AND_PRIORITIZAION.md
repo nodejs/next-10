@@ -10,7 +10,7 @@ that are applied when making tradeoffs.
 
 ## Values and priority level
 
--  Prio 1 - Developer experience
+- Prio 1 - Developer experience
 - Prio 2 - Stability
 - Prio 3 - Operational qualities
 - Prio 4 - Technology and API Currency
