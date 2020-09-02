@@ -45,7 +45,7 @@ We value keeping Node.js safe, performant and lightweight as well as the ability
  - Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
  - Addressing security vulnerabilities in a responsible manner
 
-### Node.js maintainer experience
+### Node.js Maintainer Experience
 We value the productivity and happiness of Node.js' maintainers. Some key elements of this include:
 - Approachability of the codebase
 - Good internal documentation and guides
