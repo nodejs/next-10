@@ -54,7 +54,7 @@ We value ensuring that Node.js maintainers are productive and enjoy maintaining 
 - Good CI and tooling to make maintainers productive
 
 ### Technology and API currency
-We value providing developers with modern APIs and technologies following existing standards whenever possible.  Some key elements of this include:
+We value providing developers with modern APIs and technologies following existing standards whenever possible. Some key elements of this include:
   - participating in standards work and organizations
   - web API compatibility
   - supporting new technologies and standards and exposing them early in their life-cycle 
