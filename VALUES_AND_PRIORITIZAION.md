@@ -4,8 +4,7 @@
 
 ## Context
 
-Define the `Technical` values shared by the project and their relatively priority
-that are applied when making tradeoffs.
+Prioritize the **Technical** values shared by the project and use these to guide us when making tradeoffs.
 
 
 ## Values and priority level
