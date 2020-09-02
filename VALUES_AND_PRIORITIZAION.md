@@ -23,27 +23,27 @@ despite the relative priorities shown.
 
 ### Developer Experience
 We value ensuring that developers are productive and enjoy developing with Node.js. Some key elements of this include:
-  - Approachability (both technical and community)
-  - Great Documentation 
-  - Bundling friction-reducing APIs and components, even though they could be provided externally
-  - Enabling/supporting external packages to ensure overall developer experience
+- Approachability (both technical and community)
+- Great Documentation 
+- Bundling friction-reducing APIs and components, even though they could be provided externally
+- Enabling/supporting external packages to ensure overall developer experience
 
 ### Stability
 To avoid introducing churn into Node.js' ecosystem, we value stability and consistency across releases and avoid breaking changes. Some key elements of this include:
-  - Backwards compatibility
-  - Predictable and stable releases
-  - A strong safety net (testing etc.) 
-  - Careful consideration of what goes into LTS releases 
+- Backwards compatibility
+- Predictable and stable releases
+- A strong safety net (testing etc.) 
+- Careful consideration of what goes into LTS releases 
 
 ### Operational Qualities
 We value keeping Node.js safe, performant and lightweight as well as the ability to investigate and debug problems in development and production. Some key elements of this include:  
-  - Throughput (speed)
-  - Startup time
-  - Binary size
-  - Memory footprint
-  - Debug tooling (debugger)
-  - Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
- - Addressing security vulnerabilities in a responsible manner
+- Throughput (speed)
+- Startup time
+- Binary size
+- Memory footprint
+- Debug tooling (debugger)
+- Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
+- Addressing security vulnerabilities in a responsible manner
 
 ### Node.js Maintainer Experience
 We value the productivity and happiness of Node.js' maintainers. Some key elements of this include:
@@ -54,9 +54,9 @@ We value the productivity and happiness of Node.js' maintainers. Some key elemen
 
 ### Providing modern APIs and Technologies
 We value providing developers with modern APIs and technologies following existing standards whenever possible. Some key elements of this include:
-  - Participating in standards work and organizations
-  - Web API compatibility
-  - Supporting and exposing new technologies and standards through early adoption
+- Participating in standards work and organizations
+- Web API compatibility
+- Supporting and exposing new technologies and standards through early adoption
 
 ## References
 
