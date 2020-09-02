@@ -13,11 +13,11 @@ This is only a subset of the overall priorities, listing only those which are at
 top of the priority list. Anything on this list is very important for the project
 despite the relative priorities shown.
 
-- Prio 1 - Developer experience
-- Prio 2 - Stability
-- Prio 3 - Operational qualities
-- Prio 4 - Node.js maintainer experience
-- Prio 5 - Technology and API currency
+- Priority 1 - Developer experience
+- Priority 2 - Stability
+- Prioity 3 - Operational qualities
+- Prioity 4 - Node.js maintainer experience
+- Prioity 5 - Technology and API currency
 
 ## Value descriptions
 
