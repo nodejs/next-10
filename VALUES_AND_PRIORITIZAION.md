@@ -43,7 +43,8 @@ We value keeping Node.js safe, performant and light weight as well as the abilit
  - binary size
  - memory footprint
  - Debug tooling (debugger)
- - Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
+- Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
+
 ### Node.js maintainer experience
 We value ensuring that Node.js maintainers are productive and enjoy maintaining Node.js and related components. Some key elements of this include:
 - Approach-ability of the code base
