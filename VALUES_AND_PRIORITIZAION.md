@@ -46,7 +46,7 @@ We value keeping Node.js safe, performant and lightweight as well as the ability
  - Addressing security vulnerabilities in a responsible manner
 
 ### Node.js maintainer experience
-We value ensuring that Node.js maintainers are productive and enjoy maintaining Node.js and related components. Some key elements of this include:
+We value the productivity and happiness of Node.js' maintainers. Some key elements of this include:
 - Approachability of the codebase
 - Good internal documentation and guides
 - Low-friction policies and processes
