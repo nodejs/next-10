@@ -30,9 +30,11 @@ We value ensuring that developers are productive and enjoy developing with Node.
   - Enabling/supporting external packages to ensure overall developer experience
 
 ### Stability
+We value keeping Node.js stable and consistent across releases versus introducing breaking changes that require churn in the ecosystem. Some key elements of this include:
   - Backwards compatibility
-  - Clear expectations set around support?
-  - LTS support for users still using older versions of Node 
+  - Predictable and stable releases
+  - A strong safety net (testing etc.) 
+  - Careful consideration of what goes into LTS releases 
 
 ### Operational Qualities
   - Performance
