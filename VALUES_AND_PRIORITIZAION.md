@@ -52,7 +52,7 @@ We value the productivity and happiness of Node.js' maintainers. Some key elemen
 - Low-friction policies and processes
 - Good CI and tooling to make maintainers productive
 
-### Technology and API currency
+### Technology and API Currency
 We value providing developers with modern APIs and technologies following existing standards whenever possible. Some key elements of this include:
   - Participating in standards work and organizations
   - Web API compatibility
