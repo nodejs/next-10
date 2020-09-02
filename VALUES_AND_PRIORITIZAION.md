@@ -15,9 +15,9 @@ despite the relative priorities shown.
 
 - Priority 1 - Developer experience
 - Priority 2 - Stability
-- Prioity 3 - Operational qualities
-- Prioity 4 - Node.js maintainer experience
-- Prioity 5 - Technology and API currency
+- Priority 3 - Operational qualities
+- Priority 4 - Node.js maintainer experience
+- Priority 5 - Technology and API currency
 
 ## Value descriptions
 
