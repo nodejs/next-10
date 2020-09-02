@@ -46,9 +46,10 @@ We value keeping Node.js safe, performant and light weight as well as the abilit
  - Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
 
 ### Technology and API currency
-  - Up to date and current APIs and technologies
-  - Adoption of new technologies
-  - Web API compatibility, standards compliance
+We value providing developers with modern APIs and technologies following existing standards whenever possible.  Some key elements of this include:
+  - participating in standards work and organizations
+  - web API compatibility
+  - supporting new technologies and standards and exposing them early in their life-cycle 
 
 ## References
 
