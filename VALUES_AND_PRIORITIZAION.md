@@ -51,6 +51,7 @@ We value ensuring that Node.js maintainers are productive and enjoy maintaining 
 - Good internal documentation and guides
 - Low friction policies and processes
 - Good CI and tooling to make maintainers productive
+
 ### Technology and API currency
 We value providing developers with modern APIs and technologies following existing standards whenever possible.  Some key elements of this include:
   - participating in standards work and organizations
