@@ -26,7 +26,7 @@ despite the relative priorities shown.
 We value ensuring that developers are productive and enjoy developing with Node.js. Some key elements of this include:
   - Approachability (both technical and community)
   - Great Documentation 
-  - Bundling API/components which reduce the friction of using them, even though they could be external
+  - Bundling friction-reducing APIs and components, even though they could be provided externally
   - Enabling/supporting external packages to ensure overall developer experience
 
 ### Stability
