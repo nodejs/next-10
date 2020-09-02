@@ -18,7 +18,7 @@ despite the relative priorities shown.
 - Prio 2 - Stability
 - Prio 3 - Operational qualities
 - Prio 4 - Node.js maintainer experience
-- Prio 5 - Technology and API Currency
+- Prio 5 - Technology and API currency
 
 ## Value descriptions
 
