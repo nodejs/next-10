@@ -23,8 +23,11 @@ despite the relative priorities shown.
 ## Value descriptions
 
 ### Developer Experience
-  - Approachability (both technical and community)
+We value ensuring that developers are productive and enjoy developing with Node.js. Some key elements of this include:
+  - Approach-ability (both technical and community)
   - Great Documentation 
+  - Bundling API/components which reduce the friction of using them, even though they could be external
+  - Enabling/supporting external packages to ensure overall developer experience
 
 ### Stability
   - Backwards compatibility
