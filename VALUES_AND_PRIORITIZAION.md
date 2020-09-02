@@ -37,7 +37,7 @@ To avoid introducing churn into Node.js' ecosystem, we value stability and consi
 
 ### Operational Qualities
 We value keeping Node.js safe, performant and lightweight as well as the ability to investigate and debug problems in development and production. Some key elements of this include:  
- - Throughput (speed)
+  - Throughput (speed)
   - Startup time
   - Binary size
   - Memory footprint
