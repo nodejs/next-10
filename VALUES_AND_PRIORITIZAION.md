@@ -38,12 +38,8 @@ We value keeping Node.js stable and consistent across releases versus introducin
 
 ### Operational Qualities
 We value keeping Node.js safe, performant and light weight as well as the ability to investigate and debug problems in development and production. Some key elements of this include: 
-  - Throughput(speed)
-  - Startup time
-  - Binary size
-  - Memory footprint
-  - Debug tooling (debugger)
  - Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
+ - Addressing security vulnerabilities in a responsible maner
 
 ### Node.js maintainer experience
 We value ensuring that Node.js maintainers are productive and enjoy maintaining Node.js and related components. Some key elements of this include:
