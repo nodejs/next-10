@@ -44,7 +44,12 @@ We value keeping Node.js safe, performant and light weight as well as the abilit
  - memory footprint
  - Debug tooling (debugger)
  - Diagnostic tooling (profilers, heapdumps, coredumps, etc.)
-
+### Node.js maintainer experience
+We value ensuring that Node.js maintainers are productive and enjoy maintaining Node.js and related components. Some key elements of this include:
+- Approach-ability of the code base
+- Good internal documentation and guides
+- Low friction policies and processes
+- Good CI and tooling to make maintainers productive
 ### Technology and API currency
 We value providing developers with modern APIs and technologies following existing standards whenever possible.  Some key elements of this include:
   - participating in standards work and organizations
