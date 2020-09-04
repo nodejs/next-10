@@ -32,7 +32,7 @@ We value ensuring that developers are productive and enjoy developing with Node.
 To avoid introducing churn into Node.js' ecosystem, we value stability and consistency across releases and avoid breaking changes. Some key elements of this include:
 - Backwards compatibility
 - Predictable and stable releases
-A strong safety net, including explicitly testing how changes in Node.js affect userland packages.
+- A strong safety net, including explicitly testing how changes in Node.js affect userland packages.
 - Careful consideration of what goes into LTS releases 
 
 ### Operational Qualities
