@@ -1,5 +1,8 @@
 # next-10
 
+[![Join us on OpenJS slack (channel #nodejs-next-10)](https://img.shields.io/badge/OpenJS%20Slack-%23nodejs--next--10-blue)](https://slack-invite.openjsf.org/)
+
+
 The purpose of this repository is to work collaboratively on the strategic
 directions for the next 10 years of Node.js (Building on the successfull
 first 10.)
