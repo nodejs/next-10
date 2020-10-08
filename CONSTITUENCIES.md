@@ -23,6 +23,7 @@ Having a clear idea of who are our constituencies will help us prioritize decisi
 * Node.js core maintainers
   * Developers working directly on [nodejs/node](https://github.com/nodejs/node)
   * Individuals participating in Working Groups
+* Organizations with investments in Node.js (eg: Enterprises, Government bodies, startups, non-profits)
 
 ## Prior art
 
