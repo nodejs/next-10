@@ -25,6 +25,7 @@ For more context see: https://github.com/nodejs/TSC/issues/797
 - [@devsnek](https://github.com/devsnek) - devsnek
 - [@dominykas](https://github.com/dominykas) - Dominykas Blyžė
 - [@ghinks](https://github.com/ghinks) - Glenn
+- [@iansu](https://github.com/iansu) - Ian Sutherland
 - [@jasnell](https://github.com/jasnell) - James M Snell
 - [@joesepi](https://github.com/joesepi) - Joe Sepi
 - [@keywordnew](https://github.com/keywordnew) - Manil Chowdhury
