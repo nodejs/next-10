@@ -9,7 +9,7 @@ first 10.)
 
 For more context see: https://github.com/nodejs/TSC/issues/797
 
-We meet every other week and an issue with the agend for the meeting will be opened in the repo a few days
+We meet every other week and an issue with the agenda for the meeting will be opened in the repo a few days
 in advance. You can find the dates/times for future meetings on the Node.js [calendar](https://calendar.google.com/calendar/u/0/embed?src=nodejs.org_nr77ama8p7d7f9ajrpnu506c98@group.calendar.google.com) labeled as `Node.js Next 10 years`.
 
 # Team members
@@ -48,4 +48,3 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@tniessen](https://github.com/tniessen) - Tobias Nießen
 - [@trivikr](https://github.com/trivikr) - Trivikram Kamat
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
-
