@@ -5,7 +5,7 @@
 
 The purpose of this repository is to work collaboratively on the strategic
 directions for the next 10 years of Node.js (Building on the successful
-first 10.)
+first 10).
 
 For more context see: https://github.com/nodejs/TSC/issues/797
 
