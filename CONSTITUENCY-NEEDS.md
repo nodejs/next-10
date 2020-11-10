@@ -117,7 +117,7 @@ More information, and easier ways to gather information about modules they depen
 ## Better CVE management in the ecosystem
 
 * Better ways to deal with reported vulnerabilties
-* Better systems of keeping track of dependencies (updates, vulnerabilities, etc
+* Better systems of keeping track of dependencies (updates, vulnerabilities, etc)
 
 ## Good CI infrastructure and experience in the project
 
