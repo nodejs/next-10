@@ -17,7 +17,7 @@
 |Relevant APIs in core|||X|X|||
 |Module/dependency info and management|X|X|X|X||
 |Ways to fund their work||||X||X|
-|Ability to asses impact of changes they make||||X||X|
+|Ability to assess impact of changes they make||||X||X|
 |Good security and CVE practices in the project|X|X|X|X|X||
 |Better CVE management in the ecosystem|X|X|X|X|X||
 |Good CI infrastructure and experience in the project||||||X|
