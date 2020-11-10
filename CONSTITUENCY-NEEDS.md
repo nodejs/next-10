@@ -46,7 +46,7 @@
 
 ## Predictable and Stable Releases
 
-* Predictable releases schedule to be able to plan upgrades
+* Predictable release schedule to be able to plan upgrades
 * Compatibility and Stability when possible across releases to minimize upgrade work
 * Stability across runtime versions
 
