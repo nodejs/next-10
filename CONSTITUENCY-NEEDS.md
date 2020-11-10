@@ -134,7 +134,7 @@ More information, and easier ways to gather information about modules they depen
 ## Better ways to build consensus in the project
 
 * Better ways to build consensus for what new features/APIs should be added to Node.js
-* Easier ways to resolve dis-agreements 
+* Easier ways to resolve disagreements 
 * Ability to push changes without burning out
 
 ## Easy contribution workflow
