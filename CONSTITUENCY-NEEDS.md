@@ -62,7 +62,7 @@
 
 ## Easy issue reporting, resolution and collaboration
 
-* A good path to report issues to the project,and the ability to collaborate/contribute to
+* A good path to report issues to the project, and the ability to collaborate/contribute to
   the project to get them addressed
 * A clear understanding of how to interact with the Node.js project.
 
