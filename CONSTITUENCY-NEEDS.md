@@ -6,7 +6,7 @@
 |Ability to affect the direction of the project|X|X|X|X|X|X|
 |Consumable APIs and docs|X| |X|X| |X|
 |Predictable and Stable Releases|X|X|X|X|X||
-|Inovation at a consumable pace|X||X|X|X|X|
+|Innovation at a consumable pace|X||X|X|X|X|
 |Easy Installation|X||||||
 |Easy issue reporting, resolution and collaboration|X|X|X|X|X| |
 |Broad Deployment platform support|X|X|||X||
@@ -139,4 +139,3 @@ More information, and easier ways to gather information about modules they depen
 
 ## Easy contribution workflow
 * More contribution workflow automation
-
