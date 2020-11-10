@@ -38,7 +38,7 @@
 * A seat at the table when big decisions are being made
 * Ability to advocate for work (bug fixes and features) that unblocks customers
 * A level playing field so that they can contribute on an equal basis with other
-  people and or organizations
+  people and/or organizations
 
 ## Consumable APIs and Docs
 
