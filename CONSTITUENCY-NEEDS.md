@@ -77,7 +77,7 @@ to look forward to, what's the project direction). Changes between
 
 ## Broad desktop platform support
 
-* Platform support that covers key desktop OS(windows, linux and OSX)
+* Platform support that covers key desktop OS (Windows, Linux and macOS)
 
 ## Consistent and intuitive Error handling
 
