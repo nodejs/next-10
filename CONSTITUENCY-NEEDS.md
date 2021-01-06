@@ -98,7 +98,6 @@ to look forward to, what's the project direction). Changes between
 * Instrumentability
 
 ## Relevant APIs in core
-* WebSockets in core (still waiting...)
 * APIs in key areas across the different types of applications, CLI, web, cloud native etc.
 * APIs they can use directly from core without intermediary deps
 
