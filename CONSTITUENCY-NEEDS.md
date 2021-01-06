@@ -55,7 +55,7 @@ to look forward to, what's the project direction). Changes between
 
 ## Innovation at a consumable pace
 
-* Right balance between "move fast" and "stability"
+* Right balance between "move fast" and stability
 * Stability while still trying out new things
 
 ## Easy Installation
