@@ -5,19 +5,20 @@
 |Good understanding of the direction of the project|X|X|X|X|X|X|
 |Ability to affect the direction of the project|X|X|X|X|X|X|
 |Consumable APIs and docs|X| |X|X| |X|
-|Predictable and Stable Releases|X|X|X|X|X||
+|Predictable and stable releases|X|X|X|X|X||
 |Innovation at a consumable pace|X||X|X|X|X|
 |Easy Installation|X||||||
 |Easy issue reporting, resolution and collaboration|X|X|X|X|X| |
-|Broad Deployment platform support|X|X|||X||
-|Broad Desktop platform support|X||X|X||X|
-|Consistent and intuitive Error handling|X|X|X|X|||
-|Runtime Diagnostic Tooling|X|X|||||
-|Development time Diagnostic Tooling|||X|X|||
+|Broad deployment platform support|X|X|||X||
+|Broad desktop platform support|X||X|X||X|
+|Consistent and intuitive error handling|X|X|X|X|||
+|Runtime diagnostic tooling|X|X|||||
+|Development time diagnostic tooling|||X|X|||
 |Relevant APIs in core|||X|X|||
 |Module/dependency info and management|X|X|X|X||
 |Ways to fund their work||||X||X|
 |Ability to assess impact of changes they make||||X||X|
+|Reasonable resource usage/performance|X|X|X|X|X||
 |Good security and CVE practices in the project|X|X|X|X|X||
 |Better CVE management in the ecosystem|X|X|X|X|X||
 |Good CI infrastructure and experience in the project||||||X|
