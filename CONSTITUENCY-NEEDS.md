@@ -136,7 +136,7 @@ to look forward to, what's the project direction). Changes between
 ## Supportive Collaborators and Environment in the project
 
 * More internals guides
-Sympathetic collaborators
+* Sympathetic collaborators
 
 ## Better ways to build consensus in the project
 
