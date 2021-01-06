@@ -57,6 +57,7 @@ to look forward to, what's the project direction). Changes between
 
 * Right balance between "move fast" and stability
 * Stability while still trying out new things
+* Advance notice and time to prepare for deprecations
 
 ## Easy Installation
 
