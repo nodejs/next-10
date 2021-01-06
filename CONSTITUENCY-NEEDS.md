@@ -53,7 +53,7 @@ to look forward to, what's the project direction). Changes between
 * Compatibility and stability when possible across releases to minimize upgrade work
 * Stability across runtime versions
 
-## Inovation as a consumable pace
+## Innovation at a consumable pace
 
 * Right balance between "move fast" and "stability"
 * Stability while still trying out new things
