@@ -99,7 +99,7 @@ to look forward to, what's the project direction). Changes between
 
 ## Relevant APIs in core
 * APIs in key areas across the different types of applications, CLI, web, cloud native etc.
-* APIs they can use directly from core without intermediary deps
+* APIs which are complete enough that they can be used without additional dependencies
 
 ## Module/dependency info and management
 
