@@ -70,7 +70,7 @@ to look forward to, what's the project direction). Changes between
   the project to get them addressed
 * A clear understanding of how to interact with the Node.js project
 
-## Broad Deployment platform support
+## Broad deployment platform support
 
 * Broad platform support for deployment OS and processor
   architectures
