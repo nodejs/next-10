@@ -50,7 +50,7 @@ to look forward to, what's the project direction). Changes between
 ## Predictable and Stable Releases
 
 * Predictable release schedule to be able to plan upgrades
-* Compatibility and Stability when possible across releases to minimize upgrade work
+* Compatibility and stability when possible across releases to minimize upgrade work
 * Stability across runtime versions
 
 ## Inovation as a consumable pace
