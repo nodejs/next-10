@@ -103,7 +103,7 @@ to look forward to, what's the project direction). Changes between
 
 ## Module/dependency info and management
 
-More information, and easier ways to gather information about modules they depend on.
+* Information and easy ways to gather information about modules they depend on.
 
 ## Ways to fund their work
 * Channels through which they can fund their work
