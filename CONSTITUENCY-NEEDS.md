@@ -44,7 +44,8 @@ to look forward to, what's the project direction). Changes between
 
 ## Consumable APIs and Docs
 
-* APIs and Docs which are simple to understand and use
+* APIs and Docs which are up to date and simple to understand and use
+* Example code for one or more use cases of the APIs
 
 ## Predictable and Stable Releases
 
