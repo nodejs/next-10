@@ -62,7 +62,7 @@ to look forward to, what's the project direction). Changes between
 ## Easy Installation
 
 * Ability to easily install/consume Node.js in different environments
-  * raw OS, containers, cloud platforms etc.
+  * raw OS, containers, cloud platforms, etc.
 
 ## Easy issue reporting, resolution and collaboration
 
