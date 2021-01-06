@@ -106,7 +106,7 @@ to look forward to, what's the project direction). Changes between
 More information, and easier ways to gather information about modules they depend on.
 
 ## Ways to fund their work
-* Ways to fund their work
+* Channels through which they can fund their work
 
 ## Ability to asses impact of changes they make
 * Tools to evaluate impact of updates they make on other packages/applications
