@@ -42,12 +42,12 @@ to look forward to, what's the project direction). Changes between
 * A level playing field so that they have equal opportunity to contribute as other
   people and/or organizations
 
-## Consumable APIs and Docs
+## Consumable APIs and docs
 
 * APIs and Docs which are up to date and simple to understand and use
 * Example code for one or more use cases of the APIs
 
-## Predictable and Stable Releases
+## Predictable and stable releases
 
 * Predictable release schedule to be able to plan upgrades
 * Compatibility and stability when possible across releases to minimize upgrade work
@@ -59,7 +59,7 @@ to look forward to, what's the project direction). Changes between
 * Stability while still trying out new things
 * Advance notice and time to prepare for deprecations
 
-## Easy Installation
+## Easy installation
 
 * Ability to easily install/consume Node.js in different environments
   * raw OS, containers, cloud platforms, etc.
@@ -79,7 +79,7 @@ to look forward to, what's the project direction). Changes between
 
 * Platform support that covers key desktop OS (Windows, Linux and macOS)
 
-## Consistent and intuitive Error handling
+## Consistent and intuitive error handling
 
 * Error handling:
   * Traceability through tooling
@@ -87,13 +87,13 @@ to look forward to, what's the project direction). Changes between
   * System state reporting
   * etc.
 
-## Runtime Diagnostic Tooling
+## Runtime diagnostic tooling
 * Diagnostics Tools
 * Diagnostic signals
 * Monitoring tools
 * Observability
 
-## Development time Diagnostic Tooling
+## Development time diagnostic tooling
 * Debuggability
 * Instrumentability
 
@@ -133,7 +133,7 @@ to look forward to, what's the project direction). Changes between
 * Make it easier for collaborators to understand failures in the CI
 * Reasonable build time 
 
-## Supportive Collaborators and Environment in the project
+## Supportive collaborators and environment in the project
 
 * More internals guides
 * Sympathetic collaborators
