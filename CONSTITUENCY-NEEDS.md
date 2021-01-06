@@ -89,7 +89,7 @@ to look forward to, what's the project direction). Changes between
 
 ## Runtime Diagnostic Tooling
 * Diagnostics Tools
-* More diagnostic signals
+* Diagnostic signals
 * Monitoring tools
 * Observability
 
