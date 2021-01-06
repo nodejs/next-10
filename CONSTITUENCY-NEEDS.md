@@ -81,7 +81,11 @@ to look forward to, what's the project direction). Changes between
 
 ## Consistent and intuitive Error handling
 
-* Error handling (traceability through tooling,long stack traces, system state reporting,etc)
+* Error handling:
+  * Traceability through tooling
+  * Full async stack traces
+  * System state reporting
+  * etc.
 
 ## Runtime Diagnostic Tooling
 * Diagnostics Tools
