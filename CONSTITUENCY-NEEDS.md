@@ -39,7 +39,7 @@ to look forward to, what's the project direction). Changes between
   made by the project.
 * A seat at the table when important decisions are being made. 
 * Ability to advocate for work (bug fixes and features) that unblocks customers
-* A level playing field so that they can contribute on an equal basis with other
+* A level playing field so that they have equal opportunity to contribute as other
   people and/or organizations
 
 ## Consumable APIs and Docs
