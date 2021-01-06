@@ -28,7 +28,7 @@
 ## Good understanding of the direction of the project
 
 * An understanding of the work happening in the Node.js project (what features do I have
-  to look forward to, what's the project direction). Roadmap?, Changes between 
+to look forward to, what's the project direction). Changes between
   releases. More info on how new changes affect end users/developers
 * Confidence in the health of the project upkeep and leadership
 * Confidence that the project is well run and will continue being maintained/successful
