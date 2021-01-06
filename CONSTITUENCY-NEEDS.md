@@ -136,7 +136,7 @@ More information, and easier ways to gather information about modules they depen
 ## Supportive Collaborators and Environment in the project
 
 * More internals guides
-* Supportive collaborators
+Sympathetic collaborators
 
 ## Better ways to build consensus in the project
 
