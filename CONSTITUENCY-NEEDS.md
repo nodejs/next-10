@@ -101,7 +101,7 @@ to look forward to, what's the project direction). Changes between
 * APIs in key areas across the different types of applications, CLI, web, cloud native etc.
 * APIs they can use directly from core without intermediary deps
 
-## Module/depenency info and management
+## Module/dependency info and management
 
 More information, and easier ways to gather information about modules they depend on.
 
