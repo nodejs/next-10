@@ -75,7 +75,7 @@ to look forward to, what's the project direction). Changes between
 * Broad platform support for deployment OS and processor
   architectures
 
-## Broad Desktop platform support
+## Broad desktop platform support
 
 * Platform support that covers key desktop OS(windows, linux and OSX)
 
