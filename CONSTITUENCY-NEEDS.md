@@ -35,7 +35,9 @@ to look forward to, what's the project direction). Changes between
 
 ## Ability to affect the direction of the project
 
-* A seat at the table when big decisions are being made
+* The ability to discover when important decisions are being
+  made by the project.
+* A seat at the table when important decisions are being made. 
 * Ability to advocate for work (bug fixes and features) that unblocks customers
 * A level playing field so that they can contribute on an equal basis with other
   people and/or organizations
