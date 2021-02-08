@@ -1,7 +1,7 @@
 # Needs of the Node.js Constituencies
 
 | Need |Users|Ops|AppDev|LibDev|Orgs|NodeMaint|
-|------|-----|---|------|------|----|---------|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
 |Good understanding of the direction of the project|X|X|X|X|X|X|
 |Ability to affect the direction of the project|X|X|X|X|X|X|
 |Consumable APIs and docs|X| |X|X| |X|
