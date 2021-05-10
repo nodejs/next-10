@@ -22,9 +22,9 @@ Having a clear idea of who are our constituencies will help us prioritize decisi
   * Tool authors
 * Library/package authors
   * Users who write libraries and packages to be included on other applications
-* Node.js core maintainers
+* Node.js contributors
   * Developers working directly on [nodejs/node](https://github.com/nodejs/node)
-  * Individuals participating in Working Groups
+  * Individuals participating in Working Groups and teams
 * Organizations with investments in Node.js (eg: Enterprises, Government bodies,
   startups, non-profits, standards groups like TC39)
   * C level executives (CTO, CEO, etc.)
