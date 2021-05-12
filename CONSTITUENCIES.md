@@ -35,7 +35,7 @@ Having a clear idea of who are our constituencies will help us prioritize decisi
   * Students
   * Organizations who help people learn Node.js (colleges, University, boot camps,
     online learning resources, etc.)
-  * Programs to help people demonstrate capability(certification programs, etc.)
+  * Programs to help people demonstrate capability (certification programs, etc.)
 * Security Practitioners
   * People involved in the life-cycle of handling security issues including:
     * Penetration testing
