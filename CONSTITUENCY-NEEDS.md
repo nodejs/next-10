@@ -25,6 +25,9 @@
 |Supportive Collaborators and Environment in the project||||||X|
 |Better ways to build consensus in the project||||||X|
 |Easy contribution workflow|||||X|X|
+|Ability to embed and bundle the Node.js runtime|||X||||
+|A well maintained and secure standard library|||X|X|X||
+|Assets that show Node.js is a good choice|X||X|X|X||
 
 ## Good understanding of the direction of the project
 
@@ -60,10 +63,12 @@ to look forward to, what's the project direction). Changes between
 * Stability while still trying out new things
 * Advance notice and time to prepare for deprecations
 
-## Easy installation
+## Easy Installation
 
 * Ability to easily install/consume Node.js in different environments
   * raw OS, containers, cloud platforms, etc.
+* Ability to easily manage/install different versions of Node.js in the
+  same environment and to switch between different versions.
 
 ## Easy issue reporting, resolution and collaboration
 
@@ -105,6 +110,7 @@ to look forward to, what's the project direction). Changes between
 ## Module/dependency info and management
 
 * Information and easy ways to gather information about modules they depend on.
+* Improved functionality and tooling for managing installation of modules/dependencies.
 
 ## Ways to fund their work
 * Channels through which they can fund their work
@@ -147,3 +153,22 @@ to look forward to, what's the project direction). Changes between
 
 ## Easy contribution workflow
 * More contribution workflow automation
+
+## Ability to embed and bundle the Node.js runtime
+
+* APIs for being able to embed the Node.js runtime in another process/program
+* The ability to bundle Node.js and additional components into a single binary
+
+## A well maintained and secure standard library
+
+* An additional set of libraries that provide an API surface
+  that is commonly needed and while not part of core come with the
+  same level of maintenance, security and trust as the core runtime.
+
+
+## Assets that show Node.js is a good choice
+
+* Assets to help demonstrate Node.js is a good choice and
+  that an organization should invest in using and supporting it.
+* Assets to help champions within an orgazation advocate
+  for investing in the Node.js project.
