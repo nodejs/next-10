@@ -18,6 +18,9 @@
 Deck with the agenda is available in:
 <https://github.com/nodejs/next-10/blob/main/meetings/summit-aug-2021/agenda.pdf>
 
+## Recording
+Recording is available in: <https://youtu.be/4u_cZoOkiyM>
+
 ## Constituencies, needs, survey
 
 We went through quick review of work to date:
