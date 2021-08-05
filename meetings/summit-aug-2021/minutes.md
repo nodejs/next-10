@@ -92,7 +92,7 @@ From those discussions the following priorities were agreed:
 
 ## Next steps
 
-We reviewed the discussion and came up with this next steps:
+We reviewed the discussion and came up with these next steps:
 * PR to Node core with technical priorities (Michael, Joe, Tierney, Jean)
 * Plan for external validation (Survey, or what ?) - Michael to open issue to discuss
 * Deep dive session in Next-10 meeting for each priority, invite other working groups
