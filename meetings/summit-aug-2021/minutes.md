@@ -80,7 +80,7 @@ From those discussions the following priorities were agreed:
 * Maintaining/growing the level of contribution
   * Ways to get funding to collaborators
   * Succession planning
-  * Helping people from companies justify/make the case to have time contribute
+  * Helping people from companies justify/make the case to have time to contribute
   * Targeted mentoring
 * Easier contribution workflow
   * Local build time is a major blocker
