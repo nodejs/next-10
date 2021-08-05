@@ -29,7 +29,7 @@ We went through quick review of work to date:
 * https://github.com/nodejs/next-10/blob/main/CONSTITUENCY-NEEDS.md
 * https://github.com/nodejs/next-10/tree/main/surveys/2021-05-03
 
-Some discussion about the survey, would there be future ones. We disscussed that
+Some discussion about the survey, would there be future ones. We discussed that
 something simiarly might make sense to get external validation of what we come
 up with for technical priorities.
 
