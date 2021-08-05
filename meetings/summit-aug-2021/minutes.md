@@ -16,7 +16,7 @@
 ## Agenda
 
 Deck with the agenda is available in:
-< https://github.com/nodejs/next-10/blob/main/meetings/summit-aug-2021/agenda.pdf>
+<https://github.com/nodejs/next-10/blob/main/meetings/summit-aug-2021/agenda.pdf>
 
 ## Constituencies, needs, survey
 
