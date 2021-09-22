@@ -17,7 +17,6 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@ahmadawais](https://github.com/ahmadawais) - Ahmad Awais ⚡️
 - [@andrewhughes101](https://github.com/andrewhughes101) - Andrew Hughes
 - [@bengl](https://github.com/bengl) - Bryan English
-- [@benjamingr](https://github.com/benjamingr) - Benjamin Gruenbaum
 - [@BethGriggs](https://github.com/BethGriggs) - Bethany Nicolle Griggs
 - [@bmeck](https://github.com/bmeck) - Bradley Farias
 - [@bnb](https://github.com/bnb) - Tierney Cyren
