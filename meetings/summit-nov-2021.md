@@ -12,7 +12,7 @@
 * Michael Zasso (@targos)
 * Orta Therox (@orta)
 * Richard Lau (@richardlau)
-* Igor
+* Igor (@igorklopov)
 * Max Schmitt (@maxibanki)
 * Gireesh Punathil (@gireeshpunathil)
 * Joyee Cheung (@joyeecheung)
