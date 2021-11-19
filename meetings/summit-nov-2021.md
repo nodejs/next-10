@@ -163,7 +163,7 @@
     * pkg required patches - [github.com/.../99#issuecomment-970674910](https://github.com/nodejs/next-10/issues/99#issuecomment-970674910)
   * Igor, self-extracting archive
   * Each platform has its own way of
-* Issues around adding signatures (ex OSX) 
+* Issues around adding signatures (macOS) 
 * Obfuscation, how important is that?
   * Is one of the reasons people would want single 
     binary verus just using script. 
