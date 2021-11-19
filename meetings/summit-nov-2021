@@ -164,7 +164,7 @@
   * Igor, self-extracting archive
   * Each platform has its own way of
 * Issues around adding signatures (ex OSX) 
-* Obesfication, how impoortant is that?
+* Obfuscation, how important is that?
   * Is one of the reasons people would want single 
     binary verus just using script. 
 * Signature issues
