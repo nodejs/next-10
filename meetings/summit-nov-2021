@@ -130,7 +130,7 @@
   * [NectarJS](https://github.com/NectarJS/nectarjs) ![GitHub Repo stars](https://img.shields.io/github/stars/nectarjs/nectarjs?style=plastic)
   * [node-packer](https://github.com/pmq20/node-packer) ![GitHub Repo stars](https://img.shields.io/github/stars/pmq20/node-packer?style=plastic)
   * [BoxedNode](https://github.com/mongodb-js/boxednode) ![GitHub Repo stars](https://img.shields.io/github/stars/mongodb-js/boxednode?style=plastic)
-* Styfle
+* Steven (@styfle)
   * 3 different ways of bundling
     * pkg, bundles Node.js executable into a single 
       binary, similar to what Deno does
