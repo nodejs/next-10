@@ -132,7 +132,7 @@
   * [BoxedNode](https://github.com/mongodb-js/boxednode) ![GitHub Repo stars](https://img.shields.io/github/stars/mongodb-js/boxednode?style=plastic)
 * Steven (@styfle)
   * 3 different ways of bundling
-    * pkg, bundles Node.js executable into a single 
+    * [pkg](https://github.com/vercel/pkg), bundles Node.js executable into a single 
       binary, similar to what Deno does
     * [ncc](https://github.com/vercel/ncc), compiles all JavaScript into single file, 
       distribute single JS filem with exectable 
