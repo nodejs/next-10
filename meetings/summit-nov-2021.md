@@ -1,9 +1,9 @@
 # Next-10 Mini-Summit 18 Nov 2021
 
 
-**Mini-summit issue:** https://github.com/nodejs/next-10/issues/99
-**Recording:** http://www.youtube.com/watch?v=TY5uirDq1SI
-**Minutes doc:** https://hackmd.io/mW7rTTYvREOwGRpOYkXc4w
+- **Mini-summit issue:** https://github.com/nodejs/next-10/issues/99
+- **Recording:** http://www.youtube.com/watch?v=TY5uirDq1SI
+- **Minutes doc:** https://hackmd.io/mW7rTTYvREOwGRpOYkXc4w
 
 
 **Attendees**
