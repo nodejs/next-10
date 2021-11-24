@@ -228,7 +228,7 @@
 * Richard used to be `third party main`, I think we took that
   out, how do you start something else. Good prior art to consider.
 * Joyee we could add into list of conditions checked in startup
-  for startup before others. `third_party_main.js` was implemented because it was easy (just checking for the existence of it). The bundling solution would be more sophisticated.
+  before others. `third_party_main.js` was implemented because it was easy (just checking for the existence of it). The bundling solution would be more sophisticated.
 * Michael Z, In which mode (esm or cjs) should we run the next section
   * Michael D, probaly need an option for that  
 
