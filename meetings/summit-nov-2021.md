@@ -173,7 +173,7 @@
     with signature. 
   * Cannot just blindly buffer contact, need to make
     their payload a proper section of the binary
-  * Without signature os does not care if you have
+  * Without signature OS does not care if you have
     added to the binary, signature tools may strip
     out a section if it is a simple concat.
   * Packer would need to
