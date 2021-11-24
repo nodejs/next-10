@@ -235,7 +235,7 @@
 ## Next Steps and actions
 
 ### Single Executable Applications
-* Ask anna if there are things still needed in Node.js to support
+* Ask Anna if there are things still needed in Node.js to support
   "Compile with node" approach
 * Write up an overview of what we discussed in terms of potential
   addition to Node.js
