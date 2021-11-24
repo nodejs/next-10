@@ -38,7 +38,7 @@
 ## Suitable types for end-users
 * Orta (@orta)
   * From [TypeScript](https://github.com/microsoft/TypeScript) team, advantages to being in 
-    [Definitely Typed](https://github.com/DefinitelyTyped) has advantages
+    [Definitely Typed](https://github.com/DefinitelyTyped)
     * Easier to make minor fixes
     * Changes to node types tested across the vast ecosystems for breaks
     * We can support multiple versions of TS and node in the same place
