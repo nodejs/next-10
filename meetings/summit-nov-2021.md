@@ -58,7 +58,7 @@
     the type system
 * Tierney (@bnb), the discussion is getting closer to my pref, 
   which is to mirror what electron does. [Electron](https://github.com/electron) structure is
-  sort of patterned on Node.js, they have [docparser](https://github.com/Docparser), which
+  sort of patterned on Node.js, they have [docparser](https://github.com/electron/docs-parser), which
   creates JSON rep, and they can generate types off that.
   Node.js dumps into a text property were as the
   Electron one is more structured.
