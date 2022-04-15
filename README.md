@@ -35,7 +35,6 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
-- [@mmarchini](https://github.com/mmarchini) - mmarchini
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
 - [@puzpuzpuz](https://github.com/puzpuzpuz) - Andrey Pechkurov
 - [@Qard](https://github.com/Qard) - Stephen Belanger
@@ -47,3 +46,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@tniessen](https://github.com/tniessen) - Tobias Nießen
 - [@trivikr](https://github.com/trivikr) - Trivikram Kamat
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
+
+# Emeritus
+
+- [@mmarchini](https://github.com/mmarchini) - mmarchini
