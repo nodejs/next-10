@@ -30,10 +30,10 @@
 
 ## Agenda
 
-13:00 Central/18:00 GMT - ESM (80 mins)
-14:20 Central/19:20 GMT - Break (10 mins)
-14:30 Central/19:30 GMT - Observability (80 mins)
-15:50 Central/20:50 GMT - Wrap up (10 mins)
+* 13:00 Central/18:00 GMT - ESM (80 mins)
+* 14:20 Central/19:20 GMT - Break (10 mins)
+* 14:30 Central/19:30 GMT - Observability (80 mins)
+* 15:50 Central/20:50 GMT - Wrap up (10 mins)
 
 For each topic answer these questions:
 
