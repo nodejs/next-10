@@ -123,7 +123,7 @@ For each topic answer these questions:
   * Anybody using instrumentation with it?
   * Vercel supports ESM but converts to CJS
   * Those who write ESM are larger than CJS.
-  * LJ, no added value to run ESM in production versus CJS over authoring in ESM which is already possible/being done, even when deployment is then CJS.
+  * LJHarb: no added value to run ESM in production versus CJS over authoring in ESM which is already possible/being done, even when deployment is then CJS.
   * Cloudflare is switching over to ESM for entrypoint as another datapoint
   * Matteo, one use case that was good for ESM, lamda with top level await, with reserved capacity, can move pre-loading
     in application before resources are reserved. Significantly improved cold start.
