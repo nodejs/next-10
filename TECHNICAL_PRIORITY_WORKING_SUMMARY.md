@@ -51,6 +51,7 @@ Deep Dives
 ### Deep Dives
 ### Project agreement
 ### Related work
+* V8 strategic initiative in - https://github.com/nodejs/node/blob/main/doc/contributing/strategic-initiatives.md
 
 ## Observability
 ### Deep Dives
