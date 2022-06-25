@@ -26,6 +26,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@designMoreWeb](https://github.com/designMoreWeb) - Divy Tolia
 - [@devsnek](https://github.com/devsnek) - devsnek
 - [@dominykas](https://github.com/dominykas) - Dominykas Blyžė
+- [@F3n67u](https://github.com/F3n67u) - Feng Yu
 - [@ghinks](https://github.com/ghinks) - Glenn
 - [@iansu](https://github.com/iansu) - Ian Sutherland
 - [@jasnell](https://github.com/jasnell) - James M Snell
