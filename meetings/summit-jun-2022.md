@@ -56,7 +56,7 @@ For each topic answer these questions:
   * James, host specific behavior. Spec allows instantiation steps to be in parallel
   * Could not commit to keeping the order?
   * Geoffrey defines, create tree, then gets everything
-  * Geoffrey: need to define dynamic imports for the things you need order, and then import the rest of the stuff.
+  * Geoffrey: need to define dynamic imports for the things you need order, and then import rest of the stuff.
   * James, developers can stick to CommonJS, or will tool vendors have to have 2 implementations
   * Bradley use loader hooks to be able to redirect and intercept some things
   * Bradley have also ported a lot to diagnostic channel
