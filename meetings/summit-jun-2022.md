@@ -211,7 +211,7 @@ For each topic answer these questions:
 
 * Priorities for Observability
   * Diagnostic Channel (common with ESM)
-  * Better advocacy to module owners, primining them for PRs from APMs etc and communicating best pratices
+  * Better advocacy to module owners, priming them for PRs from APMs etc and communicating best pratices
   * Better defined Node.js startup lifecycle so that Observability tools can ensure they get loaded
     early enough (common priority with another collab subbmit discussion on Typescript)
   * Replacing trace events implementation with Perfetto
