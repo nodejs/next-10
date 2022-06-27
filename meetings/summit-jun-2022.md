@@ -125,7 +125,7 @@ For each topic answer these questions:
   * Those who write ESM are larger than CJS.
   * LJHarb: no added value to run ESM in production versus CJS over authoring in ESM which is already possible/being done, even when deployment is then CJS.
   * Cloudflare is switching over to ESM for entrypoint as another datapoint
-  * Matteo, one use case that was good for ESM, lamda with top level await, with reserved capacity, can move pre-loading
+  * Matteo, one use case that was good for ESM, lambda with top level await, with reserved capacity, can move pre-loading
     in application before resources are reserved. Significantly improved cold start.
 
 #### Summary of what we agreed
