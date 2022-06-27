@@ -228,7 +228,7 @@ For each topic answer these questions:
       lot sooner if there was more help
     * Should we make this a strategic initiative to increase visibility/support at TSC level?
     * Goal is to get loaders to non-experimental this year
-  * Initiate work on enhanded startup lifecycle than can be used to ensure Observability tools are loaded
+  * Initiate work on enhanced startup lifecycle than can be used to ensure Observability tools are loaded
     first. James volunteered to open issue to kick off discussion.
   * Start documentation/advocacy initiative to modules owners, Michael to open issue in Diagnostics WG around
     this.
