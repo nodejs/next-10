@@ -221,7 +221,7 @@ For each topic answer these questions:
     * Stephen continues to work on this, but could use help adding points were we inject data
     * Create doc that lists where we think data should be sent to diagnostic channel so that others
       can help add generation of data at those points.
-    * Trevor is going to PR in additional to Diagnostic Channel for a number of places NodeSource is already
+    * Trevor is going to PR in addition to Diagnostic Channel for a number of places NodeSource is already
       capturing data.
   * Continue work on loaders (common with ESM)
     * Jacob is progressing and moving forward, will get completed but could be completed a
