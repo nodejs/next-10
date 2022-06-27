@@ -160,7 +160,7 @@ For each topic answer these questions:
     * Geoffrey, –import command line as well
     * Ordering with loaders is an issue (loaders already work with both ESM and CommonJS)
     * Issues with serverless, need co-operation with serverless vendors
-    * Node clinic, need to load before before event loop starts, if start later then miss some objects
+    * Node clinic, need to load before event loop starts, if start later then miss some objects
     * In serverless challenge getting loaded early enough.  In  AWS can monkey patch later on, but works
     * Need standardized way to have initial instrumentation loaded
       * James, do we need an entry point hook
