@@ -79,7 +79,7 @@ Entrypoint Hooks[43408](https://github.com/nodejs/node/issues/43408)
 ### Deep Dives
 ### Project Agreement
 ### Related Work
-Next-10 - Deep dive session for Better multithreaded support[139](https://github.com/nodejs/next-10/issues/139)
+* Next-10 - Deep dive session for Better multithreaded support[139](https://github.com/nodejs/next-10/issues/139)
 
 ## Single Executable Applications
 
