@@ -62,7 +62,9 @@ N/A - we get new features from V8, and have a decent process for keeping up to d
 
 ### Project agreement
 ### Related work
-Entrypoint Hooks[43408](https://github.com/nodejs/node/issues/43408)
+* Entrypoint Hooks[43408](https://github.com/nodejs/node/issues/43408)
+* Create feature request for - Replacing trace events implementation with Perfetto
+* Start documentation/advocacy initiative to modules owners, Michael to open issue in Diagnostics WG around this.
 
 ## Permissions/policies/sec model
 ### Deep Dives
