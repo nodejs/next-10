@@ -50,6 +50,7 @@ Deep Dives
 
 ## Support for features from the latest ECMAScript spec
 ### Deep Dives
+N/A - we get new features from V8, and have a decent process for keeping up to date with V8
 ### Project agreement
 ### Related work
 * V8 strategic initiative in - https://github.com/nodejs/node/blob/main/doc/contributing/strategic-initiatives.md
