@@ -55,7 +55,7 @@ Deep Dives
 
 ## Observability
 ### Deep Dives
-* [June 2022]()
+* [June 2022](https://github.com/nodejs/next-10/blob/main/meetings/summit-jun-2022.md)
 
 ### Project agreement
 ### Related work
