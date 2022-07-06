@@ -46,6 +46,7 @@ Deep Dives
 
 ### Related work
 * [loaders](https://github.com/nodejs/loaders)
+* Try to encourage/get work started on support for ESM in the vm module.
 
 ## Support for features from the latest ECMAScript spec
 ### Deep Dives
