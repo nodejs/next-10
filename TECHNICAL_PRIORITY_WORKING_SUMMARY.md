@@ -59,6 +59,7 @@ Deep Dives
 
 ### Project agreement
 ### Related work
+Entrypoint Hooks[43408](https://github.com/nodejs/node/issues/43408)
 
 ## Permissions/policies/sec model
 ### Deep Dives
