@@ -54,6 +54,7 @@ N/A - we get new features from V8, and have a decent process for keeping up to d
 ### Project agreement
 ### Related work
 * V8 strategic initiative in - https://github.com/nodejs/node/blob/main/doc/contributing/strategic-initiatives.md
+* Plan to document current approach in ../doc/contributing
 
 ## Observability
 ### Deep Dives
