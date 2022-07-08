@@ -208,8 +208,8 @@ Client
     * <https://nodejs.org/en/docs/guides/>
   * Learning path
     * Learn (nodejs.dev) - <https://nodejs.dev/learn>
-  * Release Notes/Change logs <https://github.com/nodejs/node/tree/master/doc/changelogs>
-  * Internal documentation (contributing, etc) <https://github.com/nodejs/node/tree/master/doc>
+  * Release Notes/Change logs <https://github.com/nodejs/node/tree/main/doc/changelogs>
+  * Internal documentation (contributing, etc) <https://github.com/nodejs/node/tree/main/doc>
   * Roadmaps/efforts
   * Security model, processes etc.
   * Operations - Observability/tracing/monitoring
@@ -229,15 +229,15 @@ Client
 * Prioritization
   * Priority 1
     * API Documentation
-    * Release Notes/Change logs <https://github.com/nodejs/node/tree/master/doc/changelogs>
+    * Release Notes/Change logs <https://github.com/nodejs/node/tree/main/doc/changelogs>
 
   * Priority N
     * Guides (knowledge base), getting started, debugging, profiling etc.
     * <https://nodejs.org/en/docs/guides/>
   * Learning path
     * Learn (nodejs.dev) - <https://nodejs.dev/learn>
-  * Release Notes/Change logs <https://github.com/nodejs/node/tree/master/doc/changelogs>
-  * Internal documentation (contributing, etc) <https://github.com/nodejs/node/tree/master/doc>
+  * Release Notes/Change logs <https://github.com/nodejs/node/tree/main/doc/changelogs>
+  * Internal documentation (contributing, etc) <https://github.com/nodejs/node/tree/main/doc>
   * Roadmaps/efforts
   * Security model, processes etc.
   * Operations - Observability/tracing/monitoring

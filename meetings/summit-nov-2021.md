@@ -91,7 +91,7 @@
 * Challenges with consuming existing data
   * Current JSON data is reasonably inaccurate, words
     are accurate, but struct is not. This function tries
-    to match things up - [github.com/SimonSchick/DefinitelyTyped/.../node-doc-processing.ts#L112](https://github.com/SimonSchick/DefinitelyTyped/blob/master/types/node/scripts/generate-docs/node-doc-processing.ts#L112)
+    to match things up - [github.com/SimonSchick/DefinitelyTyped/.../node-doc-processing.ts#L112](https://github.com/SimonSchick/DefinitelyTyped/blob/main/types/node/scripts/generate-docs/node-doc-processing.ts#L112)
   * Often generated JSON docs do not represent actual
     documentation.
   * How do we model complex generics overload?
