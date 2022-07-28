@@ -135,12 +135,12 @@
   can be opinionated, important for ecosystem coherence.
 
 # Agreement on DX 
-1.start file with node (ex ndoe script.ts), look for config, not found echo message
+1. start file with node (ex ndoe script.ts), look for config, not found echo message
   * generic
   * specific one for .ts
   * point to page on Node.js project with the instructions.
 
-2.start a file with node (ex node script.ts), find config file in scope, apply Node.js
+2. start a file with node (ex node script.ts), find config file in scope, apply Node.js
   options specified before trying to run file
   * options will configure support for execution of file of that type (for example
     through loaders or some other mechanism)
