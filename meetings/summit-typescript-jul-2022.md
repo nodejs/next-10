@@ -1,11 +1,11 @@
 # Next-10 Types Mini-Summit
 
-# Links
+## Links
 
 * Recording: <http://www.youtube.com/watch?v=HTbh6o6a-aI>
 * Issue: <https://github.com/nodejs/next-10/issues/149>
 
-# Attendees
+## Attendees
 
 * Michael Dawson (@mhdawson)
 * Stephen Belanger(@qard)
@@ -33,7 +33,7 @@
 * Rob Palmer (@robpalme)
 * and 2-3 others
 
-# Agenda
+## Agenda
 
 * Intro
 * Requirements/Desired UX Brainstorm
@@ -41,7 +41,7 @@
 * Implementation brainstorm (if time)
 * Document Next Steps (10 mins)
 
-# Requirements/Desired UX Brainstorm
+## Requirements/Desired UX Brainstorm
 
 * Jacob
   * Today you can support TS using esloader with command line loader
@@ -134,7 +134,7 @@
 * Rob beneficial, for it to just work, not many people wanting to reconfigure loaders, if we
   can be opinionated, important for ecosystem coherence.
 
-# Agreement on DX 
+## Agreement on DX 
 1. start file with node (ex ndoe script.ts), look for config, not found echo message
   * generic
   * specific one for .ts
@@ -155,7 +155,7 @@ Future/follow on discussion:
   shipping TypeScript makes sense. Loaders can choose to not do node_modules. Can plan for
   users flow for pre-compiling.
 
-Next Steps
+## Next Steps
 
 1. PR in minutes for summit (Michael)
 1. PR in agreement somewhere, to get broader collaborator input (Michael)
