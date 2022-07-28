@@ -128,7 +128,7 @@
 * Matteo, we could consider that tsconfig is needed since without that it is sub-par experience
 * Andrew, some talk of mapping from file extensions, some cases where that might not work
 * Michael, more generally or for TypeScript, imports may not have a specifier at all, or
-  Package.json
+  package.json
 * Jake, other tools already do the prompt in terms of asking people to install required components.
 * Geoffrey if have example of doing the same prompts that would be useful. Please add to the issue.
 * Rob beneficial, for it to just work, not many people wanting to reconfigure loaders, if we
