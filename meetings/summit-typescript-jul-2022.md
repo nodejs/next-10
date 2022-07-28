@@ -68,7 +68,7 @@
 * Matteo
   * Current issue with some proposals - requirement for ESM,world is bigger than that, needs to work for both ESM and CJS
   * use of NODE_OPTIONS is not ergonomic
-  * loading from Package.json might be a good option
+  * loading from package.json might be a good option
 * Tierney
   * Configuring through package.json is fine, but would be able to run node script.ts,
     happy to do steps required for project, but not have higher bar.
