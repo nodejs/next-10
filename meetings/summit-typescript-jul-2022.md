@@ -83,7 +83,7 @@
 * Daniel, in terms of compatibility across versions, does Types as annotations relate in terms of
   Possibly being defaults?
 * Matteo, whatever happens at runtime level, does not relate, what’s being specified in TC39
-  proposal  dos not overlay, Types a comments is about TypeChecking, not running
+  proposal  does not overlay, Types a comments is about TypeChecking, not running
 * Tierney, independent.
 * Ruy, discussed supporting different versions, maybe vendoring loaders might be a solution.
 * Rob, implemented in runtime in a custom runtime, on Matteo’s comment, found you can divide tsconfig into 2 categories
