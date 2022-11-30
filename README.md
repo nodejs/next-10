@@ -37,6 +37,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
+- [@ovflowd](https://github.com/ovflowd) - Claudio Wunder
 - [@puzpuzpuz](https://github.com/puzpuzpuz) - Andrey Pechkurov
 - [@Qard](https://github.com/Qard) - Stephen Belanger
 - [@richardlau](https://github.com/richardlau) - Richard Lau
