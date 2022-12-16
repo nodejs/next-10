@@ -20,7 +20,6 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@BethGriggs](https://github.com/BethGriggs) - Bethany Nicolle Griggs
 - [@bmeck](https://github.com/bmeck) - Bradley Farias
 - [@bnb](https://github.com/bnb) - Tierney Cyren
-- [@boneskull](https://github.com/boneskull) - Christopher Hiller
 - [@BridgeAR](https://github.com/BridgeAR) - Ruben Bridgewater
 - [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
 - [@designMoreWeb](https://github.com/designMoreWeb) - Divy Tolia
