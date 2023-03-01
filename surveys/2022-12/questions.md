@@ -126,7 +126,7 @@
     - Yes
     - No
 
-- Are you planning to convert your application to native ESM?
+- Are you planning to convert an application to native ESM or use native ESM for a future application?
     - Yes
     - No
     
