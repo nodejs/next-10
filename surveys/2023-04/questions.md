@@ -26,6 +26,8 @@
     - Library & package authors: Users who write libraries and packages to be included on other applications
     - Node.js core maintainers: Developers working directly on Node.js, individuals participating in Working Groups
     - Organization with investments in Node.js (eg: Enterprises, Gouvernement bodies, Startups, Non-profit, Education, Security)
+    - Education
+    - Security Practitioners
 
 - Are you part of a constituency not covered ? If yes which one ? (open question)
 
