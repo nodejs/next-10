@@ -19,7 +19,7 @@
 
 ## Node.js Usage
 
-- Which constituencies do you identify with? (multiple choice)
+- Which groups do you identify with? (multiple choice)
     - Direct end users: Users who run tools themselves
     - Application operators: Users who interacts with existing running applications
     - Application developers: Frontend tools consumers, backend server authors, tools authors
@@ -27,19 +27,19 @@
     - Node.js core maintainers: Developers working directly on Node.js, individuals participating in Working Groups
     - Organization with investments in Node.js (eg: Enterprises, Gouvernement bodies, Startups, Non-profit, Education, Security)
 
-- Are you part of a constituency not covered ? If yes which one ? (open question)
+- Are you part of a group not covered ? If yes which one ? (open question)
 
-- What is your use case of Node.js ? (open question)
+- What is your use cases of Node.js ? (if multiple use case, separate with a comma) (open question)
 
 ## What Node.js binaries do you use
 
-- What is your OS for your local development environment ? (single choice - Other should give an input)
+- What is your Operating System for your local development environment ? (single choice - Other should give an input)
 	- Linux
 	- Windows
 	- MacOs
 	- Other?
 
-- What is your OS in which you are running Node.js in production ? Do you plan to change that in the near future? (single choice - Other should give an input)
+- What is your Operating System in which you are running Node.js in production ? Do you plan to change that in the near future? (single choice - Other should give an input)
 	- Linux/Unix
 	- Windows
 	- MacOs
@@ -61,6 +61,13 @@
     - Downloading binaries directly from Nodejs.org
     - Building Node.js from Source
     - Other
+
+- What package manager do you use ? (multiple choice - Other should give an input)
+    - npm
+    - yarn
+    - cnpm
+    - pnpm
+    - Other ? 
 
 - If you use a version manager which one do you use (multiple choice - Other should give an input)
     - nvm
