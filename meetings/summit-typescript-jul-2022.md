@@ -135,7 +135,7 @@
   can be opinionated, important for ecosystem coherence.
 
 ## Agreement on DX 
-1. start file with node (ex ndoe script.ts), look for config, not found echo message
+1. start file with node (ex node script.ts), look for config, not found echo message
   * generic
   * specific one for .ts
   * point to page on Node.js project with the instructions.
