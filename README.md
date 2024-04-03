@@ -28,6 +28,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@ruyadorno](https://github.com/ruyadorno) - Ruy Adorno
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@nomadtechie](https://github.com/nomadtechie) - Amal Hussein
+- [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
 
 # Emeritus
 
