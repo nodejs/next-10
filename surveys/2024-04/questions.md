@@ -137,7 +137,7 @@
 
 ## Technical Questions
 
-- Are you using native ESM (e.g. `"type": "module"`,  `.mjs` or other solutions) in your Node.js Development?
+- Regardless of how your code is written in its original form, when it runs in production, does it contain ES module syntax (`import`/`export`)?
     - Yes
     - No
 
