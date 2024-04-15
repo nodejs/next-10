@@ -77,6 +77,14 @@
     - volta
     - Other ?
 
+- How do you manage the package manager for your project? (multiple choice – Other should give an input)
+   - I use one version installed globally for all my projects.
+   - I use a tool to pick a specific version per project (e.g. Corepack, asdf, …).
+   - I use containers.
+   - Other ?
+   
+- How would you feel about having your local dependencies added to your PATH? (Open question)
+
 ## Project Priorities and Direction
 
 - Are you aware of the defined Node.js [Technical Priorities](https://github.com/nodejs/node/blob/main/doc/contributing/technical-priorities.md)? (single choice)
