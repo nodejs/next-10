@@ -167,4 +167,5 @@
    - Fetch
 - For those of you wishing to use ESM in an existing application, what have been the pain points or blockers preventing you from doing so (if any)? (open question)
 
+- If you use or have attempted to use TypeScript with ES module syntax, whether ESM dependencies or running your production code using ESM syntax, what issues (if any) have you encountered? Please be as specific as possible and please include your tech stack (build tool, application framework, testing framework, runtime customizations, etc.).
 - Do you encounter any recurring issues when using Node.js that you would like to share with us ? (open question)
