@@ -45,7 +45,7 @@
 	- MacOs
 	- Other?
 
-- What is your architecture in which you are running Node.js with Node.js ? Do you plan to change that in the near future? (single choice - Other should give an input)
+- What architecture is the machine you are running Node.js for development? Do you plan to change that in the near future? (single choice - Other should give an input)
     - x64
     - ia32
     - arm
