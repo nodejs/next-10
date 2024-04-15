@@ -15,7 +15,7 @@
     - individual
     - other
 
-- Are you part/following some Working Groups? Are you involved in some Node.js community  Working Groups ? If yes which one (open question)
+- Are you part/following some Working Groups? Are you involved in some Node.js community Working Groups? If yes which one (open question)
 
 ## Node.js Usage
 
