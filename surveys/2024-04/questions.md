@@ -144,7 +144,27 @@
 - Are you planning to convert an application to native ESM or use native ESM for a future application?
     - Yes
     - No
-    
+ - Are you using the following experimental features of Node.js (multiple choice)?
+     - Corepack
+     - Async Hooks
+     - Permission model / Policies
+     - Single Executable Application
+     - Startup Snapshot
+     - Loader hooks (`--loader` or `module.register()`)
+     - Network import (`import 'http://...'`)
+     - WASI
+     - VM Modules (`--experimental-vm-modules`)
+     - Watch mode (`--watch`)
+     - WebSocket client
+     - Trace events (`--trace-event-categories` or `node:trace_events`)
+     - Dotenv (`--env-file`)
+     - Import attributes
+
+  - Are you using the following new stable features (multiple choice):
+   - Test runner (`node:test`)
+   - Web Crypto (`globalThis.crypto` or `crypto.webcrypto`)
+   - Web Streams (`node:stream/web`)
+   - Fetch
 - For those of you wishing to use ESM in an existing application, what have been the pain points or blockers preventing you from doing so (if any)? (open question)
 
 - Do you encounter any recurring issues when using Node.js that you would like to share with us ? (open question)
