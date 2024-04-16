@@ -34,13 +34,13 @@
 - What is your Operating System for your local development environment ? (single choice - Other should give an input)
   - Linux
   - Windows
-  - MacOs
+  - macOS
   - Other?
 
 - What is your Operating System in which you are running Node.js in production ? Do you plan to change that in the near future? (single choice - Other should give an input)
   - Linux/Unix
   - Windows
-  - MacOs
+  - macOS
   - Other?
 
 - What architecture is the machine you are running Node.js for development? Do you plan to change that in the near future? (single choice - Other should give an input)
@@ -49,7 +49,7 @@
   - arm
   - ppc
   - s390
-  - Other ?
+  - Other?
 
 - How do you get your `node` executables? (multiple choice – Other should give an input)
   - With a Node.js version manager: nvm, n, nave, nvs, volta, etc.
@@ -65,7 +65,7 @@
   - yarn
   - cnpm
   - pnpm
-  - Other ?
+  - Other?
 
 - If you use a version manager which one do you use (multiple choice - Other should give an input)
   - nvm
@@ -73,23 +73,17 @@
   - nave
   - nvs
   - volta
-  - Other ?
+  - Other?
 
 - How do you manage the package manager for your project? (multiple choice – Other should give an input)
   - I use one version installed globally for all my projects.
   - I use a tool to pick a specific version per project (e.g. Corepack, asdf, …).
   - I use containers.
-  - Other ?
-
-- How would you feel about having your local dependencies added to your PATH? (Open question)
+  - Other?
 
 ## Project Priorities and Direction
 
-- Are you aware of the defined Node.js [Technical Priorities](https://github.com/nodejs/node/blob/main/doc/contributing/technical-priorities.md)? (single choice)
-  - Yes
-  - No
-
-- Which of the current technical priorities are important to you ? (multiple choice)
+- Which of the current [Technical Priorities](https://github.com/nodejs/node/blob/main/doc/contributing/technical-priorities.md) are important to you ? (multiple choice)
   - Modern HTTP
   - Suitable types for end-users
   - Documentation
@@ -139,6 +133,8 @@
   - Yes
   - No
 
+- For those of you wishing to use ESM in an existing application, what have been the pain points or blockers preventing you from doing so (if any)? (open question)
+
 - Are you using the following experimental features of Node.js (multiple choice)?
   - Corepack
   - Async Hooks
@@ -160,9 +156,5 @@
 - Web Crypto (`globalThis.crypto` or `crypto.webcrypto`)
 - Web Streams (`node:stream/web`)
 - Fetch
-
-- For those of you wishing to use ESM in an existing application, what have been the pain points or blockers preventing you from doing so (if any)? (open question)
-
-- If you use or have attempted to use TypeScript with ES module syntax, whether ESM dependencies or running your production code using ESM syntax, what issues (if any) have you encountered? Please be as specific as possible and please include your tech stack (build tool, application framework, testing framework, runtime customizations, etc.).
 
 - Do you encounter any recurring issues when using Node.js that you would like to share with us ? (open question)
