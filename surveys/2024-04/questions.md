@@ -19,7 +19,7 @@
 
 - Which groups do you identify with? (multiple choice)
   - Direct end users: Users who run tools themselves
-  - Application operators: Users who interacts with existing running applications
+  - Application operators: Service and infrastructure providers
   - Application developers: Frontend tools consumers, backend server authors, tools authors
   - Library & package authors: Users who write libraries and packages to be included on other applications
   - Node.js core maintainers: Developers working directly on Node.js, individuals participating in Working Groups
