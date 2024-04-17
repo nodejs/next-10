@@ -37,7 +37,7 @@
   - macOS
   - Other?
 
-- What is your Operating System in which you are running Node.js in production ? Do you plan to change that in the near future? (single choice - Other should give an input)
+- What is your Operating System in which you are running Node.js in production ? (multiple choice - Other should give an input)
   - Linux/Unix
   - Windows
   - macOS
