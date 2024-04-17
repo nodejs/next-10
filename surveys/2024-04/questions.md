@@ -67,7 +67,7 @@
   - pnpm
   - Other?
 
-- If you use a version manager which one do you use (multiple choice - Other should give an input)
+- Which version manager do you use (multiple choice - Other should give an input)
   - nvm
   - n
   - nave
