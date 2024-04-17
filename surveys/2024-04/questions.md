@@ -78,6 +78,7 @@
   - arm
   - ppc
   - s390
+  - Don't know
   - Other?
 
 - How do you get your `node` executables? (multiple choice – Other should give an input)
@@ -91,15 +92,19 @@
 
 - What package manager do you use ? (multiple choice - Other should give an input)
   - npm
-  - yarn
+  - yarn v1
+  - yarn v3
   - cnpm
   - pnpm
   - Other?
 
 - Which version manager do you use (multiple choice - Other should give an input)
+  - none
   - nvm
   - n
-  - nave
+  - asdf
+  - fnm
+  - nodenv
   - nvs
   - volta
   - Other?
