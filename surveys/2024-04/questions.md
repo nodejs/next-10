@@ -113,7 +113,6 @@
   - Relevant APIs in core
   - Module/dependency info and management
   - Ways to fund their work
-  - Ability to assess impact of changes they make
   - Reasonable resource usage/performance
   - Good security and CVE practices in the project
   - Better CVE management in the ecosystem
