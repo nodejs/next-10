@@ -3,7 +3,7 @@
 ## Demographics
 
 - Where are you from? (countries list if possible - or open question)
-  - country
+  - Country
 
 - How long have you been working with Node.js? (numbers list from 0 to 10+)
 
@@ -14,6 +14,18 @@
   - university
   - individual
   - other
+
+- If working in a company, in which sector does your company operate? (single choice - Other should give an input)
+  - Energy
+  - Materials
+  - Industrials
+  - Health Care
+  - Financials
+  - Information Technology
+  - Communication Services
+  - Utilities
+  - Real Estate
+  - Other?
 
 ## Node.js Usage
 
@@ -27,7 +39,17 @@
 
 - Are you part of a group not covered ? If yes which one ? (open question)
 
-- What is your use cases of Node.js ? (if multiple use case, separate with a comma) (open question)
+- What is your use cases of Node.js ? (multiple choice) (open question - Other should give an input)
+  - Cli tools
+  - Testing
+  - Development of APIs with Microservices
+  - Development of APIs with Serverless
+  - Development of APIs with Other
+  - Building static front end applications
+  - Deploying front end applications (Next.js, Remix, etc...)
+  - Script and automation (bots, scrapers)
+  - Proxy
+  - other
 
 ## What Node.js binaries do you use
 
@@ -35,12 +57,19 @@
   - Linux
   - Windows
   - macOS
+  - Linux with Docker
+  - Windows with Docker
+  - macOS with Docker
+  - Windows with WSL
   - Other?
 
 - What is your Operating System in which you are running Node.js in production ? (multiple choice - Other should give an input)
   - Linux/Unix
   - Windows
   - macOS
+  - Linux with Docker
+  - Windows with Docker
+  - macOS with Docker
   - Other?
 
 - What architecture is the machine you are running Node.js in production? (multiple choice - Other should give an input)
