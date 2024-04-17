@@ -106,7 +106,7 @@
   - Easy Installation
   - Easy issue reporting, resolution and collaboration
   - Broad deployment platform support
-  - Broad desktop platform support
+  - Broad development platform support
   - Consistent and intuitive error handling
   - Runtime diagnostic tooling
   - Development time diagnostic tooling
