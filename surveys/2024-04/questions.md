@@ -45,7 +45,7 @@
 
 - What architecture is the machine you are running Node.js in production? (single choice - Other should give an input)
   - x64
-  - ia32
+  - x32
   - arm
   - ppc
   - s390
