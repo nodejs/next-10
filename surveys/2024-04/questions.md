@@ -114,8 +114,7 @@
   - Module/dependency info and management
   - Ways to fund their work
   - Reasonable resource usage/performance
-  - Good security and CVE practices in the project
-  - Better CVE management in the ecosystem
+  - Good security and CVE practices
   - Good CI infrastructure and experience in the project
   - Supportive Collaborators and Environment in the project
   - Better ways to build consensus in the project
