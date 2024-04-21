@@ -128,6 +128,7 @@
   - Permissions/policies/security model
   - Better multithreaded support
   - Single Executable Applications
+  - TypeScript Support
 
 - Are there technical priorities that you believe are missing (open question)
 
