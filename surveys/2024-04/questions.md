@@ -93,7 +93,7 @@
 - What package manager do you use ? (multiple choice - Other should give an input)
   - npm
   - yarn v1
-  - yarn v3
+  - yarn modern (2+)
   - cnpm
   - pnpm
   - Other?
