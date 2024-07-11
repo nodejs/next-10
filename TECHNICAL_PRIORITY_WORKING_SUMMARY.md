@@ -86,7 +86,7 @@ N/A - we get new features from V8, and have a decent process for keeping up to d
 ## Single Executable Applications
 
 ### Deep Dives
-* [Nov 20221](https://github.com/nodejs/next-10/blob/main/meetings/summit-nov-2021.md)
+* [Nov 2021](https://github.com/nodejs/next-10/blob/main/meetings/summit-nov-2021.md)
 
 ### Project agreement
 
