@@ -30,6 +30,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@nomadtechie](https://github.com/nomadtechie) - Amal Hussein
 - [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
 - [@UlisesGascon](https://github.com/UlisesGascon) - Ulises Gascón
+- [@JakobJingleheimer](https://github.com/JakobJingleheimer) - Jacob Smith
 
 # Emeritus
 
