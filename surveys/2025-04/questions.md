@@ -105,6 +105,7 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Using a system package manager: apt-get, brew, dnf, yum …
   - Downloading binaries directly from Nodejs.org
   - Building Node.js from Source
+  - Docker Image
   - Other
 
 - What package manager do you use ? (multiple choice - Other should give an input)
