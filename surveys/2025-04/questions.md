@@ -147,6 +147,9 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Better multithreaded support
   - Single Executable Applications
   - TypeScript Support
+  - Native Addons
+  - HTTP3/Quic
+  - Performance
 
 - Are there technical priorities that you believe are missing (open question)
 
