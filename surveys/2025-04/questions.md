@@ -31,7 +31,7 @@
 
 ## Node.js Usage
 
-- Which groups do you identify with? (multiple choice)
+Which of the following best reflects your role regarding Node.js? (multiple choice)
   - Node.js core maintainers: Developers working directly on Node.js, individuals participating in Working Groups
   - Library & package authors: Users who write libraries and packages to be included on other applications
   - Application developers: Frontend tools consumers, backend server authors, tools authors
