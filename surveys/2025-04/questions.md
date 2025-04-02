@@ -2,7 +2,7 @@
 
 ## Demographics
 
-- Where are you from? (countries list)
+- Where do you currently live? (countries list)
   - Country
 
 - How long have you been working with Node.js? (numbers list from 0 to 15+)
