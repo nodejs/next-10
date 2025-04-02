@@ -124,6 +124,7 @@ Select all that apply, add links to sponsor sites, other is open ended
   - fnm
   - nodenv
   - volta
+  - pnpm
   - Other?
 
 - How do you manage the package manager for your project? (multiple choice – Other should give an input)
