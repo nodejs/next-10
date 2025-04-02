@@ -8,12 +8,14 @@
 - How long have you been working with Node.js? (numbers list from 0 to 15+)
 
 - In what kind of organizations are you working in?
-  - big tech
-  - company
-  - startup
-  - academia (school, university..)
+  - Big tech
+  - Company
+  - Startup
+  - Academia (school, university..)
   - Government
-  - other
+  - NGO (no profit)
+  - Individual/Freelance
+  - Other
 
 - If working in a company, in which sector does your company operate? (single choice - Other should give an input)
   - this question should only be displayed for people that selected company (and startup?)
