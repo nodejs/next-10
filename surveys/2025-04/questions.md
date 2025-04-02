@@ -32,19 +32,17 @@
 
 ## Node.js Usage
 
-Which of the following best reflects your role regarding Node.js? (multiple choice)
+- Which of the following best reflects your role regarding Node.js? (multiple choice)
   - Node.js core maintainers: Developers working directly on Node.js, individuals participating in Working Groups
   - Library & package authors: Users who write libraries and packages to be included on other applications
-  - Application developers: Frontend 
+  - Application developers: Frontend
   - Application developers: backend server authors
   - Application developers: fullstack (front end and back end)
   - Application developers: tools authors
   - Direct end users: Users who run tools themselves
   - Application operators: Service and infrastructure providers
   
-Select all that apply, add links to sponsor sites, other is open ended
-
-- How does your organization invest in JavaScript related projects ? 
+- How does your organization invest in JavaScript related projects ?
   - sponsors your time to work in the Node.js project
   - sponsors your time to work in JavaScript projects other than Node.js
   - sponsors Node.js directly through crowdfunding (for example, GitHub sponsors or Open Collective)
