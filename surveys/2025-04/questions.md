@@ -41,10 +41,16 @@ Which of the following best reflects your role regarding Node.js? (multiple choi
   - Direct end users: Users who run tools themselves
   - Application operators: Service and infrastructure providers
   
-- Are you part of an organization with investments in Node.js? (eg: Enterprises, Gouvernement bodies, Startups, Non-profit, Education, Security)
-  - yes
-  - no
+Select all that apply, add links to sponsor sites, other is open ended
 
+- How does your organization invest in JavaScript related projects ? 
+  - sponsors your time to work in the Node.js project
+  - sponsors your time to work in JavaScript projects other than Node.js
+  - sponsors Node.js directly through crowdfunding (for example, GitHub sponsors or Open Collective)
+  - sponsors JavaScript packages in the ecosystem through crowdfunding (for example, GitHub sponsors or Open Collective)
+  - through membership in the OpenJS foundation
+  - other
+  - none
 
 - What is your use cases of Node.js ? (multiple choice) (open question - Other should give an input)
   - Cli tools
