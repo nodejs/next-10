@@ -68,7 +68,7 @@ Select all that apply, add links to sponsor sites, other is open ended
 
 ## What Node.js binaries do you use
 
-- What is your Operating System for your local development environment ? (single choice - Other should give an input)
+- What is your Operating System for your local development environment ? (multiple choice - Other should give an input)
   - Linux
   - Windows
   - macOS
