@@ -113,6 +113,7 @@ Select all that apply, add links to sponsor sites, other is open ended
   - yarn v1
   - yarn modern (2+)
   - pnpm
+  - bun
   - Other?
 
 - Which version manager do you use (multiple choice - Other should give an input)
