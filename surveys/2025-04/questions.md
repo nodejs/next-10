@@ -5,7 +5,7 @@
 - Where are you from? (countries list if possible - or open question)
   - Country
 
-- How long have you been working with Node.js? (numbers list from 0 to 10+)
+- How long have you been working with Node.js? (numbers list from 0 to 15+)
   - do we want to have a 15 for the max year?
 
 - In what kind of organizations are you working in?
