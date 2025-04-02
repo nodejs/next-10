@@ -6,7 +6,6 @@
   - Country
 
 - How long have you been working with Node.js? (numbers list from 0 to 15+)
-  - do we want to have a 15 for the max year?
 
 - In what kind of organizations are you working in?
   - big tech
