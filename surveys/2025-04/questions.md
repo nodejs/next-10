@@ -86,6 +86,9 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Linux with Docker
   - Windows with Docker
   - macOS with Docker
+  - Android
+  - Serveless
+  - Unknown
   - Other?
 
 - What architecture is the machine you are running Node.js in production? (multiple choice - Other should give an input)
