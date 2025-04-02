@@ -128,7 +128,48 @@ Select all that apply, add links to sponsor sites, other is open ended
 
 ## Project Priorities and Direction
 
-- Do we want to keep the same question as last year?
+- Which of the current [Technical Priorities](https://github.com/nodejs/node/blob/main/doc/contributing/technical-priorities.md) are important to you ? (multiple choice)
+  - Modern HTTP
+  - Suitable types for end-users
+  - Documentation
+  - WebAssembly
+  - ESM
+  - Support for features from the latest ECMAScript spec
+  - Observability
+  - Permissions/policies/security model
+  - Better multithreaded support
+  - Single Executable Applications
+  - TypeScript Support
+
+- Are there technical priorities that you believe are missing (open question)
+
+- What is important to you ? (multiple choice)
+  - Good understanding of the direction of the project
+  - Ability to affect the direction of the project
+  - Consumable APIs and docs
+  - Predictable and stable releases
+  - Innovation at a consumable pace
+  - Easy Installation
+  - Easy issue reporting, resolution and collaboration
+  - Broad deployment platform support
+  - Broad development platform support
+  - Consistent and intuitive error handling
+  - Runtime diagnostic tooling
+  - Development time diagnostic tooling
+  - Relevant APIs in core
+  - Module/dependency info and management
+  - Ways to fund their work
+  - Reasonable resource usage/performance
+  - Good security and CVE practices
+  - Good CI infrastructure and experience in the project
+  - Supportive Collaborators and Environment in the project
+  - Better ways to build consensus in the project
+  - Easy contribution workflow
+  - Ability to embed and bundle the Node.js runtime
+  - A well maintained and secure standard library
+  - Assets that show Node.js is a good choice
+
+- What is important to you that is not in this list? (open question)
 
 ## Technical Questions
 
