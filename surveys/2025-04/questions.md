@@ -182,32 +182,34 @@ Select all that apply, add links to sponsor sites, other is open ended
 
 ## Technical Questions
 
-- Regardless of how your code is written in its original form, when it runs in production, does it contain ES module syntax (`import`/`export`)?
-  - Yes
-  - No
-
 - Are you using the following experimental features of Node.js (multiple choice)?
   - Corepack
-  - Async Hooks
-  - Permission model / Policies
+  - Async Hooks Module (`node:async_hooks`)
   - Single Executable Application
   - Startup Snapshot
-  - Loader hooks (`--loader` or `module.register()`)
-  - Network import (`import 'http://...'`)
+  - Loader hooks
   - WASI
-  - VM Modules (`--experimental-vm-modules`)
-  - Watch mode (`--watch`)
-  - WebSocket client
-  - Trace events (`--trace-event-categories` or `node:trace_events`)
+  - VM Modules
   - Dotenv (`--env-file`)
-  - Import attributes
+  - TypeScript support
+  - Shadow Realm
+  - Test Coverage
+  - Module Mocking
+  - Web Storage
+  - SQLite
+  - Require(ESM)
+  - Config File (`node.config.json`)
+  - Glob
+  - zstd
 
 - Are you using the following new stable features (multiple choice):
+- Import attributes
+- WebSocket client
+- Watch mode (`--watch`)
 - Permission model
 - Test runner (`node:test`)
-- Web Crypto (`globalThis.crypto` or `crypto.webcrypto`)
-- Web Streams (`node:stream/web`)
-- Fetch
+- Test Snapshot
+- Task runner (`--run`)
+- Diagnostic APIs (`--cpu-prof`, `--heap-prof`, etc...)
 
 - Do you encounter any recurring issues when using Node.js that you would like to share with us ? (open question)
-
