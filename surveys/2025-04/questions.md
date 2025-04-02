@@ -18,7 +18,6 @@
   - Other
 
 - If working in a company, in which sector does your company operate? (single choice - Other should give an input)
-  - this question should only be displayed for people that selected company (and startup?)
   - Energy
   - Materials
   - Industrials
@@ -203,13 +202,13 @@
   - zstd
 
 - Are you using the following new stable features (multiple choice):
-- Import attributes
-- WebSocket client
-- Watch mode (`--watch`)
-- Permission model
-- Test runner (`node:test`)
-- Test Snapshot
-- Task runner (`--run`)
-- Diagnostic APIs (`--cpu-prof`, `--heap-prof`, etc...)
+  - Import attributes
+  - WebSocket client
+  - Watch mode (`--watch`)
+  - Permission model
+  - Test runner (`node:test`)
+  - Test Snapshot
+  - Task runner (`--run`)
+  - Diagnostic APIs (`--cpu-prof`, `--heap-prof`, etc...)
 
 - Do you encounter any recurring issues when using Node.js that you would like to share with us ? (open question)
