@@ -58,8 +58,10 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Development of APIs with Microservices
   - Development of APIs with Serverless
   - Development of APIs with Other
-  - Building static front end applications
-  - Deploying front end applications (Next.js, Remix, etc...)
+  - Tooling used to build front end applications
+  - Full stack development (Next.js, Remix, etc...)
+  - Implementing desktop applications (ex electron based applications)
+  - Mobile applications 
   - Script and automation (bots, scrapers)
   - Proxy
   - other
