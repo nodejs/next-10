@@ -99,7 +99,7 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Other?
 
 - How do you get your `node` executables? (multiple choice – Other should give an input)
-  - With a Node.js version manager: nvm, n, nave, nvs, volta, etc.
+  - With a Node.js version manager: nvm, n, nave, nvs, volta, mise, asdf, etc.
   - Using the official installer
   - Using package managers like npm or yarn and install Node.js as a package
   - Using a system package manager: apt-get, brew, dnf, yum …
