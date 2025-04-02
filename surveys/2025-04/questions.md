@@ -63,7 +63,8 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Implementing desktop applications (ex electron based applications)
   - Mobile applications 
   - Script and automation (bots, scrapers)
-  - Proxy
+  - Http proxy
+  - IoT/Edge devices
   - other
 
 ## What Node.js binaries do you use
