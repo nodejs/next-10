@@ -136,7 +136,7 @@ Select all that apply, add links to sponsor sites, other is open ended
 ## Project Priorities and Direction
 
 - Which of the current [Technical Priorities](https://github.com/nodejs/node/blob/main/doc/contributing/technical-priorities.md) are important to you ? (multiple choice)
-  - Modern HTTP
+  - Modern HTTP (HTTP3, quic)
   - Suitable types for end-users
   - Documentation
   - WebAssembly
