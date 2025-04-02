@@ -13,7 +13,7 @@
   - company
   - startup
   - academia (school, university..)
-  - individual
+  - Government
   - other
 
 - If working in a company, in which sector does your company operate? (single choice - Other should give an input)
