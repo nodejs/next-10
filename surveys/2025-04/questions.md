@@ -203,6 +203,7 @@ Select all that apply, add links to sponsor sites, other is open ended
   - Import attributes
 
 - Are you using the following new stable features (multiple choice):
+  - Permission model / Policies
 - Test runner (`node:test`)
 - Web Crypto (`globalThis.crypto` or `crypto.webcrypto`)
 - Web Streams (`node:stream/web`)
