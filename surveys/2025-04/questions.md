@@ -10,9 +10,7 @@
 - How long have you been working with Node.js? (numbers list from 0 to 15+)
 
 - In what kind of organizations are you working in?
-  - Big tech
   - Company
-  - Startup
   - Academia (school, university..)
   - Government
   - NGO (no profit)
