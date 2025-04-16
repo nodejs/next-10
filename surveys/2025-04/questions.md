@@ -3,7 +3,6 @@
 ## Demographics
 
 - Where do you currently live? (countries list)
-  - Country
 
 - What is your primary language? (add list of languages)
 
@@ -32,12 +31,12 @@
   - Other
 
 - What is the number of employees/member of the organization you are part of? (single choice)
-  - 0 to 9
+  - 1 to 9
   - 10 to 99
   - 100 to 499
   - 500 to 999
   - 1000+
-  
+
 ## Node.js Usage
 
 - Which of the following best reflects your role regarding Node.js? (multiple choice)
@@ -56,8 +55,8 @@
   - sponsors Node.js directly through crowdfunding (for example, GitHub sponsors or Open Collective)
   - sponsors JavaScript packages in the ecosystem through crowdfunding (for example, GitHub sponsors or Open Collective)
   - through membership in the OpenJS foundation
-  - other
-  - none
+  - Other
+  - None
 
 - What is your use cases of Node.js ? (multiple choice) (open question - Other should give an input)
   - Cli tools
@@ -68,11 +67,11 @@
   - Tooling used to build front end applications
   - Full stack development (Next.js, Remix, etc...)
   - Implementing desktop applications (ex electron based applications)
-  - Mobile applications 
+  - Mobile applications
   - Scripting automation
   - Http proxy
   - IoT/Edge devices
-  - other
+  - Other
 
 ## What Node.js binaries do you use
 
@@ -85,7 +84,7 @@
   - macOS with Docker
   - Windows with WSL
   - Android
-  - Other?
+  - Other
 
 - What is your Operating System in which you are running Node.js in production ? (multiple choice - Other should give an input)
   - Linux/Unix
@@ -97,14 +96,14 @@
   - Android
   - Serverless
   - Unknown
-  - Other?
+  - Other
 
 - What architecture is the machine you are running Node.js in production? (multiple choice - Other should give an input)
   - x64
   - x32
   - arm
   - Don't know
-  - Other?
+  - Other
 
 - How do you get your `node` executables? (multiple choice – Other should give an input)
   - With a Node.js version manager: nvm, n, nave, nvs, volta, mise, asdf, etc.
@@ -122,7 +121,7 @@
   - yarn modern (2+)
   - pnpm
   - bun
-  - Other?
+  - Other
 
 - Which version manager do you use (multiple choice - Other should give an input)
   - none
@@ -133,13 +132,13 @@
   - nodenv
   - volta
   - pnpm
-  - Other?
+  - Other
 
 - How do you manage the package manager for your project? (multiple choice – Other should give an input)
   - I use one version installed globally for all my projects.
   - I use a tool to pick a specific version per project (e.g. Corepack, asdf, …).
   - I use containers.
-  - Other?
+  - Other
 
 ## Project Priorities and Direction
 
@@ -159,7 +158,7 @@
   - Small footprint
   - Developers-first DX
   - Package management
-
+  - Other
 
 - What is important to you ? (multiple choice)
   - Good understanding of the direction of the project
@@ -187,7 +186,6 @@
   - A well maintained and secure standard library
   - Assets that show Node.js is a good choice
   - Other
-
 
 ## Technical Questions
 
@@ -221,7 +219,7 @@
   - Task runner (`--run`)
   - Diagnostic APIs (`--cpu-prof`, `--heap-prof`, etc...)
 
-Are there any key features that you think should be added to Node.js? (open question)
+- Are there any key features that you think should be added to Node.js? (open question)
 
 - Do you write and test your code to run on other server side runtimes in addition to Node.js? (Yes No)
 
