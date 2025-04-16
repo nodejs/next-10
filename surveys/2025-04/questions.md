@@ -69,7 +69,7 @@
   - Full stack development (Next.js, Remix, etc...)
   - Implementing desktop applications (ex electron based applications)
   - Mobile applications 
-  - Script and automation (bots, scrapers)
+  - Scripting automation
   - Http proxy
   - IoT/Edge devices
   - other
