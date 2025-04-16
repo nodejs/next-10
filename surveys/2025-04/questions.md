@@ -28,7 +28,8 @@
   - Communication Services
   - Utilities
   - Real Estate
-  - Other?
+  - Agricultural tech
+  - Other
 
 ## Node.js Usage
 
