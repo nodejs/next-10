@@ -148,7 +148,10 @@
   - Better multithreaded support
   - Single Executable Applications
   - TypeScript Support
-  - Native Addons
+  - Serverless
+  - Small footprint
+  - Developers-first DX
+  - Package management
   - Performance
 
 - Are there technical priorities that you believe are missing (open question)
