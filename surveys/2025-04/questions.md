@@ -160,7 +160,6 @@
   - Developers-first DX
   - Package management
 
-- Are there technical priorities that you believe are missing (open question)
 
 - What is important to you ? (multiple choice)
   - Good understanding of the direction of the project
