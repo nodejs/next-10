@@ -186,6 +186,7 @@
   - Ability to embed and bundle the Node.js runtime
   - A well maintained and secure standard library
   - Assets that show Node.js is a good choice
+  - Other
 
 - What is important to you that is not in this list? (open question)
 
