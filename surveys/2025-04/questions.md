@@ -5,6 +5,8 @@
 - Where do you currently live? (countries list)
   - Country
 
+- What is your primary language? (add list of languages)
+
 - How long have you been working with Node.js? (numbers list from 0 to 15+)
 
 - In what kind of organizations are you working in?
