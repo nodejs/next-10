@@ -13,7 +13,7 @@
   - Company
   - Academia (school, university..)
   - Government
-  - NGO (no profit)
+  - NGO (not for profit)
   - Individual/Freelance
   - Unemployed
   - Other
