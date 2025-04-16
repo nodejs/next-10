@@ -50,9 +50,9 @@
   - Direct end users: Users who run tools themselves
   - Application operators: Service and infrastructure providers
   
-- How does your organization invest in JavaScript related projects ?
+- How does your organization invest in Node.js ?
   - sponsors your time to work in the Node.js project
-  - sponsors your time to work in JavaScript projects other than Node.js
+  - sponsors your time to work in JavaScript packages in the ecosystem
   - sponsors Node.js directly through crowdfunding (for example, GitHub sponsors or Open Collective)
   - sponsors JavaScript packages in the ecosystem through crowdfunding (for example, GitHub sponsors or Open Collective)
   - through membership in the OpenJS foundation
