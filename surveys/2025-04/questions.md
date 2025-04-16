@@ -188,7 +188,6 @@
   - Assets that show Node.js is a good choice
   - Other
 
-- What is important to you that is not in this list? (open question)
 
 ## Technical Questions
 
