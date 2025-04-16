@@ -86,7 +86,7 @@
   - Windows with Docker
   - macOS with Docker
   - Android
-  - Serveless
+  - Serverless
   - Unknown
   - Other?
 
