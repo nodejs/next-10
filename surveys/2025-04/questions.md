@@ -15,6 +15,7 @@
   - Government
   - NGO (no profit)
   - Individual/Freelance
+  - Unemployed
   - Other
 
 - If working in a company, in which sector does your company operate? (single choice - Other should give an input)
