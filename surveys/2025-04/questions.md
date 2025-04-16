@@ -31,6 +31,13 @@
   - Agricultural tech
   - Other
 
+- What is the number of employees/member of the organization you are part of? (single choice)
+  - 0 to 9
+  - 10 to 99
+  - 100 to 499
+  - 500 to 999
+  - 1000+
+  
 ## Node.js Usage
 
 - Which of the following best reflects your role regarding Node.js? (multiple choice)
