@@ -102,7 +102,7 @@
   - Arm
   - Don't know
   - Other
-  - x32
+  - x86
   - x64
 
 - How do you get your `node` executables? (multiple choice – Other should give an input)
