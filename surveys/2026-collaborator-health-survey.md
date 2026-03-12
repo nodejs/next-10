@@ -125,7 +125,7 @@
 - Having to spend time dealing with Node.js PR AI slop contributions
 - Other (specify)
 
-### How frequently do you encounter AI-generated ("AI slop") contributions — such as low-effort or poorly adapted PRs — in your Node.js collaboration work? (single-select question)
+### How frequently do you encounter poor-quality AI-generated contributions ("AI slop") in your Node.js collaboration work? (single-select question)
 
 - Never
 - Rarely (a few times per year)
