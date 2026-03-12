@@ -122,7 +122,7 @@
 - My contributions are frequently rejected or go unreviewed
 - Lack of required technical expertise in certain areas
 - Local development or testing environment challenges
-- Having to spend time dealing with Node.js PR AI slop contributions
+- Having to spend too much time dealing with AI slop
 - Other (specify)
 
 ### How frequently do you encounter poor-quality AI-generated contributions ("AI slop") in your Node.js collaboration work? (single-select question)
@@ -153,7 +153,7 @@
 ### How do you use AI tools in your own Node.js contributions? (multi-select question)
 
 - I do not use AI tools in my contributions
-- Code generation or completion (e.g., Copilot, Cursor)
+- Code generation or completion (e.g., Copilot, Cursor, CodeRabbit)
 - Debugging or error analysis
 - Writing or improving documentation
 - Writing or reviewing tests
