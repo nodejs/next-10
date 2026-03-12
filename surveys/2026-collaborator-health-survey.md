@@ -72,7 +72,7 @@
 
 ### What makes you want to continue contributing to the project? (multi-select question)
 
-- Working Groups
+- Working Groups / Teams
 - Features development
 - Bug fixes
 - Recognition in the larger community ecosystem
