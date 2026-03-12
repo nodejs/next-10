@@ -1,8 +1,8 @@
-# Healthy collaborator base survey
+# Collaborator health survey
 
 ## A bit about you
 
-### How long have you been contributing to the project? (single-select question)
+### How long have you been contributing to the project? (single-select question, can we also establish skip logic here specifically for people who answer less than 1 year OR 1-2 years? Forthcoming skipped questions are identified)
 
 - less than 1 year
 - 1-2 years
@@ -19,7 +19,6 @@
 - Release working group
 - Website team
 - Next 10 working group
-- Loaders group
 - TypeScript team
 - uv wasi team
 - node api team
@@ -34,7 +33,7 @@
 
 ## How did you get involved
 
-### How did you first get involved ? (single-select question)
+### How did you first get involved ? (single-select question, skip for collaborators who have contributed for less than 1 year OR 1-2 years)
 
 - Attended Node.js Conference
 - Attended collaborator summit
@@ -49,7 +48,7 @@
 - Pulled in by other collaborators
 - Other (specify)
 
-### Why did you get involved ? (multi-select question)
+### Why did you get involved ? (multi-select question, skip for collaborators who have contributed for less than 1 year OR 1-2 years)
 
 - Hobby, wanted to contributed to a key open source project
 - Using Node.js personally wanted to contribute
@@ -57,7 +56,7 @@
 - Joined a team at the company I work for that contributes
 - Other (specify)
 
-### What would have made it easier to get involved ? (multi-select question)
+### What would have made it easier to get involved ? (multi-select question, skip for collaborators who have contributed for less than 1 year OR 1-2 years)
 
 - More documentation
 - Easier ways to contact existing collaborators
@@ -91,7 +90,7 @@
 - PRs take too long to land
 - Long discussions on PRs
 - Having to deal with AI slop contributions
-- Toxic peers
+- Problematic peers
 - Other (specify)
 
 ## Level of contribution
@@ -141,14 +140,18 @@
 - 4 – 8 hours per month (roughly 1–2 hours per week)
 - More than 8 hours per month (more than 2 hours per week)
 
-### Please rate your agreement with each statement below. (1 = Strongly Disagree, 5 = Strongly Agree)
+### Please rate your agreement with each statement below. (1 = Strongly Disagree, 5 = Strongly Agree, randomize options so positive & negative responses are shuffled)
 
+- Vibe-coding helps my contributing experience and/or makes my contributions more productive
+- Agentic-coding makes my contribution time more productive
 - AI slop contributions negatively affect my experience as a Node.js collaborator
 - Dealing with AI slop has reduced my motivation to continue contributing to Node.js
 - Because of AI slop, I am considering reducing how often I review certain contribution types
 - Because of AI slop, I am considering stepping back from reviewing entirely
 - I would support introducing an official AI slop label for flagging and tracking these contributions
 - An AI slop label would meaningfully help the team manage contribution quality
+- AI tools have been very useful for improving the quality and/or efficiency of my Node.js contributions
+- This question does not apply to me
 
 ### How do you use AI tools in your own Node.js contributions? (multi-select question)
 
@@ -160,13 +163,6 @@
 - Researching unfamiliar APIs or concepts
 - Drafting issue descriptions or PR summaries
 - Other: ___________
-
-### Overall, how useful have AI tools been in improving the quality or efficiency of your Node.js contributions? (single-select question)
-- I do not use AI tools in my contributions
-- Not useful at all
-- Slightly useful
-- Moderately useful
-- Very useful
 
 ## Plans going forward
 
