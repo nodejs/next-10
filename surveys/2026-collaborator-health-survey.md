@@ -89,6 +89,7 @@
 - PRs take too long to land
 - Long discussions on PRs
 - Having to deal with AI slop contributions
+- Toxic peers
 - Other (specify)
 
 ## Level of contribution
