@@ -133,7 +133,7 @@
 - Frequently (once or twice per week)
 - Very frequently (several or more times per week)
 
-### On average, how much of your Node.js collaboration time is spent reviewing, addressing, or closing AI slop contributions? (single-select question)
+### On average, how much of your Node.js contribution time is spent reviewing, addressing, or closing AI slop? (single-select question)
 
 - None
 - Less than 1 hour per month
