@@ -23,6 +23,8 @@
 - TypeScript team
 - uv wasi team
 - node api team
+- Test runner team
+- Userland migrations team
 - Other (specify)
 
 ### Is contributing to Node.js part of your job ?
