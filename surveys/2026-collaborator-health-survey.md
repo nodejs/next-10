@@ -177,3 +177,28 @@
 - No (specify)
 
 ### What would you like to change to improve the current environment?
+
+## Node.js as an organisation
+
+### Please rate your agreement with each description below about **project governance**. (1 = Strongly Disagree, 5 = Strongly Agree)
+
+- It's fairly governed
+- The model is fair
+- The model works well
+
+### Please rate your agreement with each description below about **project policies**. (1 = Strongly Disagree, 5 = Strongly Agree)
+
+- They're clear
+- They're fair
+- They're working well
+
+### Please rate your agreement with each description below about **internal problems**. (1 = Strongly Disagree, 5 = Strongly Agree)
+
+- They're adequately dealt with
+- They're fairly dealt with
+
+### Please rate your agreement with each description below about **collaborator nomination requirements**. (1 = Strongly Disagree, 5 = Strongly Agree)
+
+- They're clear
+- They're fair
+- They're working well
