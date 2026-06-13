@@ -170,7 +170,7 @@
     * Windows with Docker
     * Don't know
     * Other
-1. What is your architecture in which you are running Node.js in **Production**? (drop-down list)
+1. What is your architecture in which you are running Node.js in **production**? (drop-down list)
     * Arm
     * x86
     * x64
@@ -180,8 +180,8 @@
     * Application server
     * Endpoint server
 1. Do you write and test your code to run on other server side runtimes in addition to Node.js? (drop-down list)
-    * yes
-    * no
+    * Yes
+    * No
 1. Which frameworks/ecosystems do you use?
     - [ ] Adonis (various)
     - [ ] Blitz.js (React)
