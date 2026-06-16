@@ -19,6 +19,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
 - [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
+- [@Qard](https://github.com/Qard) - Stephen Belanger
 - [@ZacTanner](https://github.com/ZacTanner) - Zach Tanner
 
 # Emeritus
@@ -50,7 +51,6 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@ronag](https://github.com/ronag) - Robert Nagy
 - [@BridgeAR](https://github.com/BridgeAR) - Ruben Bridgewater
 - [@ruyadorno](https://github.com/ruyadorno) - Ruy Adorno
-- [@Qard](https://github.com/Qard) - Stephen Belanger
 - [@bnb](https://github.com/bnb) - Tierney Cyren
 - [@tniessen](https://github.com/tniessen) - Tobias Nießen
 - [@trivikr](https://github.com/trivikr) - Trivikram Kamat
