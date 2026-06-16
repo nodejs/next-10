@@ -15,43 +15,44 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 # Team members
 
 - [@BethGriggs](https://github.com/BethGriggs) - Bethany Nicolle Griggs
-- [@bmeck](https://github.com/bmeck) - Bradley Farias
-- [@bnb](https://github.com/bnb) - Tierney Cyren
-- [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
-- [@dominykas](https://github.com/dominykas) - Dominykas Blyžė
-- [@joesepi](https://github.com/joesepi) - Joe Sepi
-- [@legendecas](https://github.com/legendecas) - legendecas
-- [@ljharb](https://github.com/ljharb) - Jordan Harband
-- [@ovflowd](https://github.com/ovflowd) - Claudio Wunder
-- [@Qard](https://github.com/Qard) - Stephen Belanger
-- [@ruyadorno](https://github.com/ruyadorno) - Ruy Adorno
-- [@sheplu](https://github.com/sheplu) - Jean Burellier
-- [@nomadtechie](https://github.com/nomadtechie) - Amal Hussein
-- [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
-- [@UlisesGascon](https://github.com/UlisesGascon) - Ulises Gascón
 - [@JakobJingleheimer](https://github.com/JakobJingleheimer) - Jacob Smith
+- [@sheplu](https://github.com/sheplu) - Jean Burellier
+- [@ljharb](https://github.com/ljharb) - Jordan Harband
+- [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
+- [@ZacTanner](https://github.com/ZacTanner) - Zach Tanner
 
 # Emeritus
 
-- [@ahmadawais](https://github.com/ahmadawais) - Ahmad Awais ⚡️
+- [@ahmadawais](https://github.com/ahmadawais) - Ahmad Awais️
+- [@nomadtechie](https://github.com/nomadtechie) - Amal Hussein
 - [@andrewhughes101](https://github.com/andrewhughes101) - Andrew Hughes
+- [@puzpuzpuz](https://github.com/puzpuzpuz) - Andrey Pechkurov
+- [@bmeck](https://github.com/bmeck) - Bradley Farias
 - [@bengl](https://github.com/bengl) - Bryan English
-- [@BridgeAR](https://github.com/BridgeAR) - Ruben Bridgewater
-- [@designMoreWeb](https://github.com/designMoreWeb) - Divy Tolia
+- [@ovflowd](https://github.com/ovflowd) - Claudio Wunder
+- [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
 - [@devsnek](https://github.com/devsnek) - devsnek
+- [@designMoreWeb](https://github.com/designMoreWeb) - Divy Tolia
+- [@dominykas](https://github.com/dominykas) - Dominykas Blyžė
 - [@F3n67u](https://github.com/F3n67u) - Feng Yu
 - [@ghinks](https://github.com/ghinks) - Glenn
 - [@iansu](https://github.com/iansu) - Ian Sutherland
 - [@jasnell](https://github.com/jasnell) - James M Snell
+- [@joesepi](https://github.com/joesepi) - Joe Sepi
+- [@legendecas](https://github.com/legendecas) - legendecas
 - [@keywordnew](https://github.com/keywordnew) - Manil Chowdhury
 - [@mcollina](https://github.com/mcollina) - Matteo Collina
 - [@mhdawson](https://github.com/mhdawson) - Michael Dawson
+- [@targos](https://github.com/targos) - Michaël Zasso
 - [@mmarchini](https://github.com/mmarchini) - mmarchini
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
-- [@puzpuzpuz](https://github.com/puzpuzpuz) - Andrey Pechkurov
 - [@richardlau](https://github.com/richardlau) - Richard Lau
 - [@ronag](https://github.com/ronag) - Robert Nagy
-- [@targos](https://github.com/targos) - Michaël Zasso
+- [@BridgeAR](https://github.com/BridgeAR) - Ruben Bridgewater
+- [@ruyadorno](https://github.com/ruyadorno) - Ruy Adorno
+- [@Qard](https://github.com/Qard) - Stephen Belanger
+- [@bnb](https://github.com/bnb) - Tierney Cyren
 - [@tniessen](https://github.com/tniessen) - Tobias Nießen
 - [@trivikr](https://github.com/trivikr) - Trivikram Kamat
+- [@UlisesGascon](https://github.com/UlisesGascon) - Ulises Gascón
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
