@@ -15,6 +15,7 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 # Team members
 
 - [@BethGriggs](https://github.com/BethGriggs) - Bethany Nicolle Griggs
+- [@ovflowd](https://github.com/ovflowd) - Claudio Wunder
 - [@JakobJingleheimer](https://github.com/JakobJingleheimer) - Jacob Smith
 - [@sheplu](https://github.com/sheplu) - Jean Burellier
 - [@ljharb](https://github.com/ljharb) - Jordan Harband
@@ -30,7 +31,6 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@puzpuzpuz](https://github.com/puzpuzpuz) - Andrey Pechkurov
 - [@bmeck](https://github.com/bmeck) - Bradley Farias
 - [@bengl](https://github.com/bengl) - Bryan English
-- [@ovflowd](https://github.com/ovflowd) - Claudio Wunder
 - [@darcyclarke](https://github.com/darcyclarke) - Darcy Clarke
 - [@devsnek](https://github.com/devsnek) - devsnek
 - [@designMoreWeb](https://github.com/designMoreWeb) - Divy Tolia
