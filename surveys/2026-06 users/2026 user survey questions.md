@@ -89,7 +89,7 @@
 
 ## Dev environment
 
-1. With which regularity does you/your company updates Node.js versions? (drop-down list)
+1. With what regularity do you/your company update Node.js versions? (drop-down list)
     * Evergreen (as soon as a new version is available)
     * Evergreen (delayed to await patches, etc)
     * Monthly
