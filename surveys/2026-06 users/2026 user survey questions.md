@@ -168,6 +168,8 @@
     * Serverless
     * Windows
     * Windows with Docker
+    * Windows with WSL
+    
     * Don't know
     * Other
 1. What is your architecture in which you are running Node.js in **production**? (drop-down list)
