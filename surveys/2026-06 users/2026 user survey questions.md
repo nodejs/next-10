@@ -116,17 +116,6 @@
     If selected "With a Node.js version manager":
 
     1. Which node version manager do you use? (drop-down list)
-1. Which version of Node.js are you running? (main one)
-    * Older than 18.x
-    * 18.x
-    * 19.x
-    * 20.x
-    * 21.x
-    * 22.x
-    * 23.x
-    * 24.x
-    * 25.x
-    * 26.x
 1. Which package manager do you use? (drop-down list)
     * bun
     * npm
