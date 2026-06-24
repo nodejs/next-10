@@ -75,6 +75,10 @@
     - [ ] WorkerThread locks
     - [ ] Web Storage
     - [ ] Zstd
+1. Are the different experimental stages ("experimental" vs "active development" vs "release candidate") useful?
+    * Yes
+    * No
+      * Why not? (free response)
 1. Which of the current Technical Priorities are important to you? (select all that apply)
 1. Do you use Alpine builds?
     * Yes
