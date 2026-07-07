@@ -206,3 +206,6 @@
 1. How does your organization invest in Node.js ? (select all that apply)
     - [ ] Sponsors time to work on open-source
     - [ ] Donates (financially) to Node.js or OpenJS (the parent charity of Node.js)
+    - [ ] Not applicable / I do not work for an organization
+    - [ ] Not applicable / My organization does not invest in Node.js
+    
