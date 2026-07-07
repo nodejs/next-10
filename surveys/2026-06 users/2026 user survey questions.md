@@ -151,7 +151,7 @@
     * Windows
     * Windows with Docker
     * Windows with WSL
-    * Other
+    * Other: (free response)
 1. What is your Operating System in which you are running Node.js in **production**? (drop-down list)
     * Android
     * Linux with Docker
@@ -164,15 +164,26 @@
     * Windows with WSL
     
     * Don't know
-    * Other
+    * Other: (free response)
 1. What is your architecture in which you are running Node.js in **production**? (drop-down list)
     * Arm
     * x64
     * Don't know
     * Other
-1. What is your primary use case for Node.js? (drop-down list)
-    * Application server
-    * Endpoint server
+1. What are your primary use-cases for Node.js? (select all that apply)
+    - [ ] APIs for Microservices
+    - [ ] APIs for Other
+    - [ ] APIs for Serverless
+    - [ ] Automation/scripting
+    - [ ] Cli tools
+    - [ ] Desktop applications (e.g. electron-based applications)
+    - [ ] Full stack (Next.js, Remix, etc...)
+    - [ ] Http proxy
+    - [ ] IoT/Edge devices
+    - [ ] Mobile applications
+    - [ ] Testing
+    - [ ] Tooling used to build front end applications
+    - [ ] Other: (free response)
 1. Do you write and test your code to run on other server side runtimes in addition to Node.js? (drop-down list)
     * Yes
     * No
