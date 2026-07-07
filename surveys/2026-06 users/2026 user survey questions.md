@@ -4,6 +4,11 @@
 
 1. Where do you currently live? (drop-down list of countries)
 1. What is your primary language? (drop-down list)
+    - … others from last year
+    - Bangla
+    - Dutch
+    - Polish
+    - Swedish
 1. In what type of organization is your primary occupation? (drop-down list)
     * Academia (school, university..)
     * B-Corporation
