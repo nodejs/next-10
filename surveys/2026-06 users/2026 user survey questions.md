@@ -85,6 +85,19 @@
     * No
       * Why not? (free response)
 1. Which of the current Technical Priorities are important to you? (select all that apply)
+    - [ ] Modern HTTP
+    - [ ] Documentation
+    - [ ] WebAssembly
+    - [ ] ES Modules (ESM)
+    - [ ] Latest ECMAScript spec features
+    - [ ] Observability
+    - [ ] Multithreaded support
+    - [ ] Single Executable Applications (SEA)
+    - [ ] Serverless
+    - [ ] Small footprint
+    - [ ] Developers-first DX
+    - [ ] Package management
+
 1. Do you use Alpine builds?
     * Yes
     * No
