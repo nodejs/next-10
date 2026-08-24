@@ -132,19 +132,29 @@
     - [ ] Using a system package manager: apt-get, brew, dnf, yum …
     - [ ] Using package managers like npm or yarn and install Node.js as a package
     - [ ] Using the official installer
-    - [ ] With a Node.js version manager: nvm, n, nave, nvs, volta, mise, asdf, etc.
+    - [ ] With a Node.js version manager (nvm, n, etc.)
     - [ ] Other
 
     If selected "With a Node.js version manager":
 
-    1. Which node version manager do you use? (drop-down list)
-1. Which package manager do you use? (drop-down list)
-    * bun
-    * npm
-    * pnpm
-    * volta
-    * yarn v1
-    * yarn v2+
+    1. Which node version manager do you use? (select all that apply)
+       - [ ] asdf
+       - [ ] fnm
+       - [ ] mise
+       - [ ] n
+       - [ ] nave
+       - [ ] nvm
+       - [ ] nvs
+       - [ ] volta
+       - [ ] Other: (free response)
+1. Which package manager(s) do you use? (select all that apply)
+   - [ ] bun
+   - [ ] npm
+   - [ ] pnpm
+   - [ ] vlt
+   - [ ] yarn v1
+   - [ ] yarn v2+
+   - [ ] Other: (free response)
 1. How do you manage the package manager for your project? (drop-down list)
     * Containers
     * One version installed globally for all projects
