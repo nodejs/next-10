@@ -58,7 +58,7 @@
   - sponsors your time to work in the Node.js project
   - through membership in the OpenJS foundation
 
-- What is your use cases of Node.js ? (multiple choice) (open question - Other should give an input)
+- What are your use cases of Node.js ? (multiple choice) (open question - Other should give an input)
   - Cli tools
   - Development of APIs with Microservices
   - Development of APIs with Other
