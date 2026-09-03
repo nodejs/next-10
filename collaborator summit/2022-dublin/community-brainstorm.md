@@ -2,12 +2,12 @@
 
 | 2021  | 2022  | Change  |
 |---|---|---|
-| Collaborator profile / Growing collaborators / Succession plannig & technical talent pool / existing collaborators   | Increase corporate contributions: getting a few unicorn startups and companies to allocate some engineers to Node.js / Keeping the lights on, build, security releases / Corporate Investment: How do we make it happen?  | new  |
+| Collaborator profile / Growing collaborators / Succession planning & technical talent pool / existing collaborators   | Increase corporate contributions: getting a few unicorn startups and companies to allocate some engineers to Node.js / Keeping the lights on, build, security releases / Corporate Investment: How do we make it happen?  | new  |
 | Attracting new collaborators / Making your first contribution / newcomers / Engage and help people wanting to collaborate & help (Collaborator Summit is great but Covid)  | Funnel contributor onboarding into relevant working groups / Communication about initiative and help people to be involved / Could use more followup after Code & Learns / Onboarding the next generation: what happens when we all die |  = |
 | Consensus process / PR review & approval flow  | Education  | new  |
 | More communication about initiative  | Enabling larger initiatives  | +1  |
 | Large & significant changes  | Further built in tooling  | +3  |
-| Mentorship programm is a good idea (but maybe with a bit more follow up)  | Being well welcomed in WG / being well welcomed in working group  |  -5 |
+| Mentorship program is a good idea (but maybe with a bit more follow up)  | Being well welcomed in WG / being well welcomed in working group  |  -5 |
 | Leadership / Leadership model  | Faster startup time  | new  |
 | Build technology, flow to being able to test  | Sustainable outreach / Adjacent community engagement  | new  |
 

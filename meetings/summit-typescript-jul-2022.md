@@ -46,7 +46,7 @@
 * Jacob
   * Today you can support TS using esloader with command line loader
 * Geoffrey shared steps you need to do using ts-node
-* Tierney believe goal is to run node test.ts
+* Tierney believes goal is to run node test.ts
 * Michael, not bundling, but if required pieces already installed, then work, otherwise
   prompt to install pieces.
 * Jacob, how?
@@ -98,7 +98,7 @@
 * Wes fundamentally all we want is ability to install something that has the ability to override
   Node.js execution start.
 * Tierney, don’t want to do it for anything, ok to limit it down to a limited subset, for now TypeScript
-* Jacob, don’t necessarily to need to limit subset, only if we can define a method that is agnostic
+* Jacob, don’t necessarily need to limit subset, only if we can define a method that is agnostic
 * Geoffrey, perspective of maintainers, there are lots of decisions so choosing config etc. as  
   Node.js maintainer, don’t have Node.js make decisions. Just enable people to load easily.
   This is first decision to make.
@@ -108,7 +108,7 @@
   * Opt in on a global basis
   * Don’t violate security expectations
 * Geoffrey, loaders roadmap has a number of those on the roadmap, PR already open #43973
-* Tieney, +1 being totally configurable, as long as it does not take a lot of energy to
+* Tierney, +1 being totally configurable, as long as it does not take a lot of energy to
   support that and DX is not awful, DX needs to be primary result. Could loader just not provide
   the configuration.
 * Jake, busy looking at snippet, talking about putting things in package.json.  Do we not care
