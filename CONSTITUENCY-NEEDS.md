@@ -115,12 +115,12 @@ to look forward to, what's the project direction). Changes between
 ## Ways to fund their work
 * Channels through which they can fund their work
 
-## Ability to asses impact of changes they make
+## Ability to assess impact of changes they make
 * Tools to evaluate impact of updates they make on other packages/applications
 
 ## Reasonable resource usage/performance
 
-* Resonable resource usage (cpu, memory etc.)
+* Reasonable resource usage (cpu, memory etc.)
 * Performance
 
 ## Good security and CVE practices in the project
@@ -130,7 +130,7 @@ to look forward to, what's the project direction). Changes between
 
 ## Better CVE management in the ecosystem
 
-* Better ways to deal with reported vulnerabilties
+* Better ways to deal with reported vulnerabilities
 * Better systems of keeping track of dependencies (updates, vulnerabilities and their relevancy, etc)
 
 ## Good CI infrastructure and experience in the project
@@ -170,5 +170,5 @@ to look forward to, what's the project direction). Changes between
 
 * Assets to help demonstrate Node.js is a good choice and
   that an organization should invest in using and supporting it.
-* Assets to help champions within an orgazation advocate
+* Assets to help champions within an organization advocate
   for investing in the Node.js project.

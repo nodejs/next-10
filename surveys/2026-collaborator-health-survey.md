@@ -50,7 +50,7 @@
 
 ### Why did you get involved ? (multi-select question, skip for collaborators who have contributed for less than 1 year OR 1-2 years)
 
-- Hobby, wanted to contributed to a key open source project
+- Hobby, wanted to contribute to a key open source project
 - Using Node.js personally wanted to contribute
 - Work for a company that uses Node.js, encouraged to contribute
 - Joined a team at the company I work for that contributes
@@ -79,7 +79,7 @@
 
 ### What makes you less likely to continue contributing to the project? (multi-select question)
 
-- Code reviews are to strict
+- Code reviews are too strict
 - Code reviews are too slow
 - Code reviews are too lax
 - CI is flaky
@@ -112,7 +112,7 @@
 
 ### If you are not able to contribute as much as you would like, what is preventing this?  (multi-select question)
 
-- My company actively interferers with Open Source contributions
+- My company actively interferes with Open Source contributions
 - My company does not support my contributions
 - Competing work or professional obligations
 - Competing personal obligations

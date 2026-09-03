@@ -4,7 +4,7 @@
 |---            |---            |---        |
 | TypeScript / Types                                        | ESM support                                                           | new  |
 | Serverless                                                | Types in JavaScript (TaC or TS) / Types / Server-Side TypeScript      | -1  |
-| Web Assembly                                              | Serverless / Seemless hosting of Node.js server. Support latest version serverless hosting by major cloud providers / Node.js as a cloud function runtime / Cloud deployment                                | -1  |
+| Web Assembly                                              | Serverless / Seamless hosting of Node.js server. Support latest version serverless hosting by major cloud providers / Node.js as a cloud function runtime / Cloud deployment                                | -1  |
 | Transaction tracing (ex. Open Telemetry) / Tracing        | Small footprint JavaScript runtimes                                   | new  |
 | Single Binary                                             | Observability (Otel, prometheus, etc.)                                | -1  |
 | CI/CD Automation                                          | Developers-first DX                                                   | new  |
@@ -14,7 +14,7 @@
 | Secure Software bill of material                          | Supply chain security                                                 | =  |
 | Pre-compilation                                           | eBPF                                                                  | new  |
 | Cryptocurrency                                            | Multi-pages Apps (MPAs) / Full-stack JavaScript                       | new  |
-| IoT                                                       | Edge / Can we lift something from workerd? Are there any approches or features?  | new  |
+| IoT                                                       | Edge / Can we lift something from workerd? Are there any approaches or features?  | new  |
 | Zero knowledge                                            | GraphQL / gRPC                                                        | -5  |
 | Object capability (OCAP)                                  | Kubernetes / Containerization                                         | new  |
 | Ecosystem Comparability & Maintenance                     |                                                                       |   |
@@ -36,7 +36,7 @@
 | ESM                                                                                   | Undici / undici in core  | -2  |
 | Up to date ES version JavaScript support                                              | ESM import mocking  | -1  |
 | Diagnostic tools (log, debugging etc.)                                                | Hot reload / dev server  | new  |
-| Quic                                                                                  | More complet ESM/CJS interop  | -2  |
+| Quic                                                                                  | More complete ESM/CJS interop  | -2  |
 | Worker Thread support                                                                 | More assertion for test runners /  | new  |
 | fs hooks                                                                              | python -m SimpleHTTPServer <PORT> equivalent  | new  |
 | Argument Parser                                                                       | Better support embedding Node.js into other projects (related to build systems support)  | new  |
@@ -46,18 +46,18 @@
 | Better installers / binary management                                                 | TypeScript integration / TypeScript support  | new  |
 | AOT (to v8 snapshot maybe?)                                                           | llhttp and its dependency llparse is mostly a blackbox  | new  |
 | Current OpenSSL support                                                               | Disk backed blob object  | new  |
-| Iteration on policies and/or exposing sandoboxing primitives to scripts               | Module quality assessment tool: (eg. check if you have dual exports)  | new  |
-| Alternative SSL support                                                               | FetchEvent and familly (CloudFlare workers-like server)  | new  |
+| Iteration on policies and/or exposing sandboxing primitives to scripts               | Module quality assessment tool: (eg. check if you have dual exports)  | new  |
+| Alternative SSL support                                                               | FetchEvent and family (CloudFlare workers-like server)  | new  |
 |                                                                                       | logger    |   new        |
 |                                                                                   | build in bundler and transpiler   | new         |
 
-> Documentation is a key point to adress (next-10 initiative on the way)
+> Documentation is a key point to address (next-10 initiative on the way)
 
-> ESM seems crucial also (function, doc, recommandation, interop...)
+> ESM seems crucial also (function, doc, recommendation, interop...)
 
 > Diagnostic seems to be a key concept to improve
 
-> Some functionnalityes landed: `Fetch` & `undici` & `argument parser` & `openssl`
+> Some functionalities landed: `Fetch` & `undici` & `argument parser` & `openssl`
 
 ## Other
 
